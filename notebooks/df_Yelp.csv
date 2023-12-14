@@ -1,0 +1,321 @@
+Station Name,Business Name,Business Address,Business Latitude,Business Longitude,Distance,Category,Review Count,Rating
+GALINDO,Duplex,"Calle Iparragirre, 1",43.3079105935486,-3.00791547140412,205.68153249120064,restaurants,1,4.0
+GALINDO,Chino Mandarin,"Manuel Andrés, 12",43.3076515,-3.00704,219.2475270013093,restaurants,2,3.0
+GALINDO,Bar Mayte,Calle Manuel Andres 6,43.307962,-3.0074457,227.53002578194952,bars,2,2.5
+GALINDO,Taberna la Venta del Casco,"C/ Gran Vía, 3 Trasera, Plaza del Orfeón",43.3079833984375,-2.99651765823364,378.96850831247656,nightlife,1,3.0
+GALINDO,Telepizza,Calle Villar y Villate 0,43.3087074,-3.0069886,317.9216731656203,restaurants,3,3.5
+GALINDO,El VI,"Calle Villar y Villate, 2",43.3085289,-3.0072401,293.4862200919907,nightlife,1,4.0
+GALINDO,Las Cepas,Vicente Blasco Ibáñez 14,43.30771476,-3.00393373,435.5330708217036,nightlife,1,4.0
+GALINDO,Comic,"Vicente Blasco Ibañez Kalea, 20",43.30779433,-3.00243795,549.2254875135071,restaurants,1,1.0
+GALINDO,Taberna la Venta del Kasko,Gran Vía 3,43.3079833984375,-2.99651765823364,719.6948122112676,tabernas,3,2.5
+GALINDO,MC Donald's,Explanada Vega Vieja 0,43.3093903,-3.0072372,378.96850831247656,restaurants,3,2.5
+GALINDO,Oh la la,Calle Vicente Blasco Ibañez 12,43.3075917,-3.0040866,416.303938804545,restaurants,4,3.5
+GALINDO,Abarsiolo Meson,Calle Abatxolo 21,43.3152,-3.01412,1088.2369920044914,restaurants,1,5.0
+GALINDO,Jai Alai,Del Conde Valmaseda 3 Plaza,43.3089485,-3.0062001,378.96850831247656,food,2,3.5
+GALINDO,Edur-Mendi,"Gran Via Kalea, 3",43.3095622,-3.006886,407.23372869624666,restaurants,3,3.5
+GALINDO,Ongi Etorri,"Calle Villar Y Villate, 4",43.3084949,-3.0074214,281.1516154210419,restaurants,1,1.0
+GALINDO,cha cha,mendebal 2 calle,43.309066,-3.006335,378.96850831247656,bars,1,3.0
+GALINDO,Alameda,Calle Alameda las Llanas 17,43.3093307,-3.0084291,350.6256846969171,bars,1,1.0
+GALINDO,Kokolo,"Alberto Arrue Kalea, 8",43.309685,-3.009899,397.3061632303183,restaurants,1,2.0
+GALINDO,Ferrara,"Plaza Casco, 1",43.3079833984375,-2.99651765823364,1018.2524948697135,restaurants,2,3.0
+GALINDO,Bodega la Palmera C B,Calle Chavarri 93,43.3118186,-3.005872,670.6035947374847,bars,1,1.0
+GALINDO,Duplex,"Calle Iparragirre, 1",43.3079105935486,-3.00791547140412,159.14008600585882,restaurants,1,4.0
+GALINDO,Alameda,Calle Alameda las Llanas 17,43.3093307,-3.0084291,27.281843380025318,bars,1,1.0
+GALINDO,Taberna la Venta del Casco,"C/ Gran Vía, 3 Trasera, Plaza del Orfeón",43.3079833984375,-2.99651765823364,69.42669900968414,nightlife,1,3.0
+GALINDO,Edur-Mendi,"Gran Via Kalea, 3",43.3095622,-3.006886,100.76934555984683,restaurants,3,3.5
+GALINDO,Telepizza,Calle Villar y Villate 0,43.3087074,-3.0069886,113.38571094132834,restaurants,3,3.5
+GALINDO,Jai Alai,Del Conde Valmaseda 3 Plaza,43.3089485,-3.0062001,69.42669900968414,food,2,3.5
+GALINDO,MC Donald's,Explanada Vega Vieja 0,43.3093903,-3.0072372,69.42669900968414,restaurants,3,2.5
+GALINDO,El VI,"Calle Villar y Villate, 2",43.3085289,-3.0072401,104.92682086645847,nightlife,1,4.0
+GALINDO,Bar Mayte,Calle Manuel Andres 6,43.307962,-3.0074457,161.48346031199358,bars,2,2.5
+GALINDO,cha cha,mendebal 2 calle,43.309066,-3.006335,69.42669900968414,bars,1,3.0
+GALINDO,Chino Mandarin,"Manuel Andrés, 12",43.3076515,-3.00704,204.32115725998128,restaurants,2,3.0
+GALINDO,Kokolo,"Alberto Arrue Kalea, 8",43.309685,-3.009899,151.27028214942956,restaurants,1,2.0
+GALINDO,Ongi Etorri,"Calle Villar Y Villate, 4",43.3084949,-3.0074214,108.12610942993501,restaurants,1,1.0
+GALINDO,Las Cepas,Vicente Blasco Ibáñez 14,43.30771476,-3.00393373,385.1863552388527,nightlife,1,4.0
+GALINDO,Comic,"Vicente Blasco Ibañez Kalea, 20",43.30779433,-3.00243795,488.5500048790761,restaurants,1,1.0
+GALINDO,Oh la la,Calle Vicente Blasco Ibañez 12,43.3075917,-3.0040866,377.6952780962661,restaurants,4,3.5
+GALINDO,Taberna la Venta del Kasko,Gran Vía 3,43.3079833984375,-2.99651765823364,694.2151274586438,tabernas,3,2.5
+GALINDO,Abarsiolo Meson,Calle Abatxolo 21,43.3152,-3.01412,814.2665896823634,restaurants,1,5.0
+GALINDO,Bodega la Palmera C B,Calle Chavarri 93,43.3118186,-3.005872,329.34574205919483,bars,1,1.0
+GALINDO,Ferrara,"Plaza Casco, 1",43.3079833984375,-2.99651765823364,948.5152215299715,restaurants,2,3.0
+GALINDO,Taberna la Venta del Kasko,Gran Vía 3,43.3079833984375,-2.99651765823364,85.83896471504279,tabernas,3,2.5
+GALINDO,Comic,"Vicente Blasco Ibañez Kalea, 20",43.30779433,-3.00243795,160.35263020727194,restaurants,1,1.0
+GALINDO,Las Cepas,Vicente Blasco Ibáñez 14,43.30771476,-3.00393373,278.45434911997535,nightlife,1,4.0
+GALINDO,Oh la la,Calle Vicente Blasco Ibañez 12,43.3075917,-3.0040866,295.0726981092077,restaurants,4,3.5
+GALINDO,Hamburguesería La Estación,"Calle Vicente Blasco Ibáñez, 28",43.3077164,-3.0021784,135.31124444690604,restaurants,1,3.0
+GALINDO,Pizzeria Piccola,Calle Autonomia 18,43.3096095,-2.9991172,223.12976360789338,restaurants,1,3.0
+GALINDO,Ferrara,"Plaza Casco, 1",43.3079833984375,-2.99651765823364,319.14339508911985,restaurants,2,3.0
+GALINDO,Duplex,"Calle Iparragirre, 1",43.3079105935486,-3.00791547140412,603.4447888298519,restaurants,1,4.0
+GALINDO,Taberna la Venta del Casco,"C/ Gran Vía, 3 Trasera, Plaza del Orfeón",43.3079833984375,-2.99651765823364,574.4450539987978,nightlife,1,3.0
+GALINDO,Edur-Mendi,"Gran Via Kalea, 3",43.3095622,-3.006886,553.630498222683,restaurants,3,3.5
+GALINDO,Chino Mandarin,"Manuel Andrés, 12",43.3076515,-3.00704,533.9285826687541,restaurants,2,3.0
+GALINDO,Bar Mayte,Calle Manuel Andres 6,43.307962,-3.0074457,565.5257471778616,bars,2,2.5
+GALINDO,MC Donald's,Explanada Vega Vieja 0,43.3093903,-3.0072372,574.4450539987978,restaurants,3,2.5
+GALINDO,Bodega la Palmera C B,Calle Chavarri 93,43.3118186,-3.005872,621.3197994071865,bars,1,1.0
+GALINDO,Alameda,Calle Alameda las Llanas 17,43.3093307,-3.0084291,665.4854474729206,bars,1,1.0
+GALINDO,Telepizza,Calle Villar y Villate 0,43.3087074,-3.0069886,536.82758955793,restaurants,3,3.5
+GALINDO,Restaurante Manhattan,Poligono Industrial Ibarzaharra 0,43.2989448,-3.0068224,1116.72470411048,restaurants,1,3.0
+GALINDO,cha cha,mendebal 2 calle,43.309066,-3.006335,574.4450539987978,bars,1,3.0
+GALINDO,El VI,"Calle Villar y Villate, 2",43.3085289,-3.0072401,560.5787471212344,nightlife,1,4.0
+GALINDO,Jai Alai,Del Conde Valmaseda 3 Plaza,43.3089485,-3.0062001,574.4450539987978,food,2,3.5
+GALINDO,Pizzeria Piccola,Calle Autonomia 18,43.3096095,-2.9991172,188.9125736741487,restaurants,1,3.0
+GALINDO,Comic,"Vicente Blasco Ibañez Kalea, 20",43.30779433,-3.00243795,380.438309382877,restaurants,1,1.0
+GALINDO,Taberna la Venta del Kasko,Gran Vía 3,43.3079833984375,-2.99651765823364,424.1189239424047,tabernas,3,2.5
+GALINDO,Las Cepas,Vicente Blasco Ibáñez 14,43.30771476,-3.00393373,448.5464840673397,nightlife,1,4.0
+GALINDO,Duplex,"Calle Iparragirre, 1",43.3079105935486,-3.00791547140412,682.5179557222258,restaurants,1,4.0
+GALINDO,Taberna la Venta del Casco,"C/ Gran Vía, 3 Trasera, Plaza del Orfeón",43.3079833984375,-2.99651765823364,565.706042295782,nightlife,1,3.0
+GALINDO,Oh la la,Calle Vicente Blasco Ibañez 12,43.3075917,-3.0040866,467.9434126220275,restaurants,4,3.5
+GALINDO,Ferrara,"Plaza Casco, 1",43.3079833984375,-2.99651765823364,464.34452591355523,restaurants,2,3.0
+GALINDO,Hamburguesería La Estación,"Calle Vicente Blasco Ibáñez, 28",43.3077164,-3.0021784,375.25629850640325,restaurants,1,3.0
+GALINDO,Edur-Mendi,"Gran Via Kalea, 3",43.3095622,-3.006886,532.9113565378202,restaurants,3,3.5
+GALINDO,Bodega la Palmera C B,Calle Chavarri 93,43.3118186,-3.005872,439.5913570846337,bars,1,1.0
+GALINDO,MC Donald's,Explanada Vega Vieja 0,43.3093903,-3.0072372,565.706042295782,restaurants,3,2.5
+GALINDO,Bar Mayte,Calle Manuel Andres 6,43.307962,-3.0074457,646.7745123764777,bars,2,2.5
+GALINDO,Alameda,Calle Alameda las Llanas 17,43.3093307,-3.0084291,659.9993452426984,bars,1,1.0
+GALINDO,Chino Mandarin,"Manuel Andrés, 12",43.3076515,-3.00704,638.0071696407861,restaurants,2,3.0
+GALINDO,cha cha,mendebal 2 calle,43.309066,-3.006335,565.706042295782,bars,1,3.0
+GALINDO,El VI,"Calle Villar y Villate, 2",43.3085289,-3.0072401,604.8181197820717,nightlife,1,4.0
+GALINDO,Telepizza,Calle Villar y Villate 0,43.3087074,-3.0069886,574.9935025620833,restaurants,3,3.5
+GALINDO,Jai Alai,Del Conde Valmaseda 3 Plaza,43.3089485,-3.0062001,565.706042295782,food,2,3.5
+GALINDO,Kokolo,"Alberto Arrue Kalea, 8",43.309685,-3.009899,767.050390597197,restaurants,1,2.0
+KASKO,Duplex,"Calle Iparragirre, 1",43.3079105935486,-3.00791547140412,205.68153249120064,restaurants,1,4.0
+KASKO,Chino Mandarin,"Manuel Andrés, 12",43.3076515,-3.00704,219.2475270013093,restaurants,2,3.0
+KASKO,Bar Mayte,Calle Manuel Andres 6,43.307962,-3.0074457,227.53002578194952,bars,2,2.5
+KASKO,Taberna la Venta del Casco,"C/ Gran Vía, 3 Trasera, Plaza del Orfeón",43.3079833984375,-2.99651765823364,378.96850831247656,nightlife,1,3.0
+KASKO,Telepizza,Calle Villar y Villate 0,43.3087074,-3.0069886,317.9216731656203,restaurants,3,3.5
+KASKO,El VI,"Calle Villar y Villate, 2",43.3085289,-3.0072401,293.4862200919907,nightlife,1,4.0
+KASKO,Las Cepas,Vicente Blasco Ibáñez 14,43.30771476,-3.00393373,435.5330708217036,nightlife,1,4.0
+KASKO,Comic,"Vicente Blasco Ibañez Kalea, 20",43.30779433,-3.00243795,549.2254875135071,restaurants,1,1.0
+KASKO,Taberna la Venta del Kasko,Gran Vía 3,43.3079833984375,-2.99651765823364,719.6948122112676,tabernas,3,2.5
+KASKO,MC Donald's,Explanada Vega Vieja 0,43.3093903,-3.0072372,378.96850831247656,restaurants,3,2.5
+KASKO,Oh la la,Calle Vicente Blasco Ibañez 12,43.3075917,-3.0040866,416.303938804545,restaurants,4,3.5
+KASKO,Abarsiolo Meson,Calle Abatxolo 21,43.3152,-3.01412,1088.2369920044914,restaurants,1,5.0
+KASKO,Jai Alai,Del Conde Valmaseda 3 Plaza,43.3089485,-3.0062001,378.96850831247656,food,2,3.5
+KASKO,Edur-Mendi,"Gran Via Kalea, 3",43.3095622,-3.006886,407.23372869624666,restaurants,3,3.5
+KASKO,Ongi Etorri,"Calle Villar Y Villate, 4",43.3084949,-3.0074214,281.1516154210419,restaurants,1,1.0
+KASKO,cha cha,mendebal 2 calle,43.309066,-3.006335,378.96850831247656,bars,1,3.0
+KASKO,Alameda,Calle Alameda las Llanas 17,43.3093307,-3.0084291,350.6256846969171,bars,1,1.0
+KASKO,Kokolo,"Alberto Arrue Kalea, 8",43.309685,-3.009899,397.3061632303183,restaurants,1,2.0
+KASKO,Ferrara,"Plaza Casco, 1",43.3079833984375,-2.99651765823364,1018.2524948697135,restaurants,2,3.0
+KASKO,Bodega la Palmera C B,Calle Chavarri 93,43.3118186,-3.005872,670.6035947374847,bars,1,1.0
+KASKO,Duplex,"Calle Iparragirre, 1",43.3079105935486,-3.00791547140412,159.14008600585882,restaurants,1,4.0
+KASKO,Alameda,Calle Alameda las Llanas 17,43.3093307,-3.0084291,27.281843380025318,bars,1,1.0
+KASKO,Taberna la Venta del Casco,"C/ Gran Vía, 3 Trasera, Plaza del Orfeón",43.3079833984375,-2.99651765823364,69.42669900968414,nightlife,1,3.0
+KASKO,Edur-Mendi,"Gran Via Kalea, 3",43.3095622,-3.006886,100.76934555984683,restaurants,3,3.5
+KASKO,Telepizza,Calle Villar y Villate 0,43.3087074,-3.0069886,113.38571094132834,restaurants,3,3.5
+KASKO,Jai Alai,Del Conde Valmaseda 3 Plaza,43.3089485,-3.0062001,69.42669900968414,food,2,3.5
+KASKO,MC Donald's,Explanada Vega Vieja 0,43.3093903,-3.0072372,69.42669900968414,restaurants,3,2.5
+KASKO,El VI,"Calle Villar y Villate, 2",43.3085289,-3.0072401,104.92682086645847,nightlife,1,4.0
+KASKO,Bar Mayte,Calle Manuel Andres 6,43.307962,-3.0074457,161.48346031199358,bars,2,2.5
+KASKO,cha cha,mendebal 2 calle,43.309066,-3.006335,69.42669900968414,bars,1,3.0
+KASKO,Chino Mandarin,"Manuel Andrés, 12",43.3076515,-3.00704,204.32115725998128,restaurants,2,3.0
+KASKO,Kokolo,"Alberto Arrue Kalea, 8",43.309685,-3.009899,151.27028214942956,restaurants,1,2.0
+KASKO,Ongi Etorri,"Calle Villar Y Villate, 4",43.3084949,-3.0074214,108.12610942993501,restaurants,1,1.0
+KASKO,Las Cepas,Vicente Blasco Ibáñez 14,43.30771476,-3.00393373,385.1863552388527,nightlife,1,4.0
+KASKO,Comic,"Vicente Blasco Ibañez Kalea, 20",43.30779433,-3.00243795,488.5500048790761,restaurants,1,1.0
+KASKO,Oh la la,Calle Vicente Blasco Ibañez 12,43.3075917,-3.0040866,377.6952780962661,restaurants,4,3.5
+KASKO,Taberna la Venta del Kasko,Gran Vía 3,43.3079833984375,-2.99651765823364,694.2151274586438,tabernas,3,2.5
+KASKO,Abarsiolo Meson,Calle Abatxolo 21,43.3152,-3.01412,814.2665896823634,restaurants,1,5.0
+KASKO,Bodega la Palmera C B,Calle Chavarri 93,43.3118186,-3.005872,329.34574205919483,bars,1,1.0
+KASKO,Ferrara,"Plaza Casco, 1",43.3079833984375,-2.99651765823364,948.5152215299715,restaurants,2,3.0
+KASKO,Taberna la Venta del Kasko,Gran Vía 3,43.3079833984375,-2.99651765823364,85.83896471504279,tabernas,3,2.5
+KASKO,Comic,"Vicente Blasco Ibañez Kalea, 20",43.30779433,-3.00243795,160.35263020727194,restaurants,1,1.0
+KASKO,Las Cepas,Vicente Blasco Ibáñez 14,43.30771476,-3.00393373,278.45434911997535,nightlife,1,4.0
+KASKO,Oh la la,Calle Vicente Blasco Ibañez 12,43.3075917,-3.0040866,295.0726981092077,restaurants,4,3.5
+KASKO,Hamburguesería La Estación,"Calle Vicente Blasco Ibáñez, 28",43.3077164,-3.0021784,135.31124444690604,restaurants,1,3.0
+KASKO,Pizzeria Piccola,Calle Autonomia 18,43.3096095,-2.9991172,223.12976360789338,restaurants,1,3.0
+KASKO,Ferrara,"Plaza Casco, 1",43.3079833984375,-2.99651765823364,319.14339508911985,restaurants,2,3.0
+KASKO,Duplex,"Calle Iparragirre, 1",43.3079105935486,-3.00791547140412,603.4447888298519,restaurants,1,4.0
+KASKO,Taberna la Venta del Casco,"C/ Gran Vía, 3 Trasera, Plaza del Orfeón",43.3079833984375,-2.99651765823364,574.4450539987978,nightlife,1,3.0
+KASKO,Edur-Mendi,"Gran Via Kalea, 3",43.3095622,-3.006886,553.630498222683,restaurants,3,3.5
+KASKO,Chino Mandarin,"Manuel Andrés, 12",43.3076515,-3.00704,533.9285826687541,restaurants,2,3.0
+KASKO,Bar Mayte,Calle Manuel Andres 6,43.307962,-3.0074457,565.5257471778616,bars,2,2.5
+KASKO,MC Donald's,Explanada Vega Vieja 0,43.3093903,-3.0072372,574.4450539987978,restaurants,3,2.5
+KASKO,Bodega la Palmera C B,Calle Chavarri 93,43.3118186,-3.005872,621.3197994071865,bars,1,1.0
+KASKO,Alameda,Calle Alameda las Llanas 17,43.3093307,-3.0084291,665.4854474729206,bars,1,1.0
+KASKO,Telepizza,Calle Villar y Villate 0,43.3087074,-3.0069886,536.82758955793,restaurants,3,3.5
+KASKO,Restaurante Manhattan,Poligono Industrial Ibarzaharra 0,43.2989448,-3.0068224,1116.72470411048,restaurants,1,3.0
+KASKO,cha cha,mendebal 2 calle,43.309066,-3.006335,574.4450539987978,bars,1,3.0
+KASKO,El VI,"Calle Villar y Villate, 2",43.3085289,-3.0072401,560.5787471212344,nightlife,1,4.0
+KASKO,Jai Alai,Del Conde Valmaseda 3 Plaza,43.3089485,-3.0062001,574.4450539987978,food,2,3.5
+KASKO,Pizzeria Piccola,Calle Autonomia 18,43.3096095,-2.9991172,188.9125736741487,restaurants,1,3.0
+KASKO,Comic,"Vicente Blasco Ibañez Kalea, 20",43.30779433,-3.00243795,380.438309382877,restaurants,1,1.0
+KASKO,Taberna la Venta del Kasko,Gran Vía 3,43.3079833984375,-2.99651765823364,424.1189239424047,tabernas,3,2.5
+KASKO,Las Cepas,Vicente Blasco Ibáñez 14,43.30771476,-3.00393373,448.5464840673397,nightlife,1,4.0
+KASKO,Duplex,"Calle Iparragirre, 1",43.3079105935486,-3.00791547140412,682.5179557222258,restaurants,1,4.0
+KASKO,Taberna la Venta del Casco,"C/ Gran Vía, 3 Trasera, Plaza del Orfeón",43.3079833984375,-2.99651765823364,565.706042295782,nightlife,1,3.0
+KASKO,Oh la la,Calle Vicente Blasco Ibañez 12,43.3075917,-3.0040866,467.9434126220275,restaurants,4,3.5
+KASKO,Ferrara,"Plaza Casco, 1",43.3079833984375,-2.99651765823364,464.34452591355523,restaurants,2,3.0
+KASKO,Hamburguesería La Estación,"Calle Vicente Blasco Ibáñez, 28",43.3077164,-3.0021784,375.25629850640325,restaurants,1,3.0
+KASKO,Edur-Mendi,"Gran Via Kalea, 3",43.3095622,-3.006886,532.9113565378202,restaurants,3,3.5
+KASKO,Bodega la Palmera C B,Calle Chavarri 93,43.3118186,-3.005872,439.5913570846337,bars,1,1.0
+KASKO,MC Donald's,Explanada Vega Vieja 0,43.3093903,-3.0072372,565.706042295782,restaurants,3,2.5
+KASKO,Bar Mayte,Calle Manuel Andres 6,43.307962,-3.0074457,646.7745123764777,bars,2,2.5
+KASKO,Alameda,Calle Alameda las Llanas 17,43.3093307,-3.0084291,659.9993452426984,bars,1,1.0
+KASKO,Chino Mandarin,"Manuel Andrés, 12",43.3076515,-3.00704,638.0071696407861,restaurants,2,3.0
+KASKO,cha cha,mendebal 2 calle,43.309066,-3.006335,565.706042295782,bars,1,3.0
+KASKO,El VI,"Calle Villar y Villate, 2",43.3085289,-3.0072401,604.8181197820717,nightlife,1,4.0
+KASKO,Telepizza,Calle Villar y Villate 0,43.3087074,-3.0069886,574.9935025620833,restaurants,3,3.5
+KASKO,Jai Alai,Del Conde Valmaseda 3 Plaza,43.3089485,-3.0062001,565.706042295782,food,2,3.5
+KASKO,Kokolo,"Alberto Arrue Kalea, 8",43.309685,-3.009899,767.050390597197,restaurants,1,2.0
+KUETO,Duplex,"Calle Iparragirre, 1",43.3079105935486,-3.00791547140412,205.68153249120064,restaurants,1,4.0
+KUETO,Chino Mandarin,"Manuel Andrés, 12",43.3076515,-3.00704,219.2475270013093,restaurants,2,3.0
+KUETO,Bar Mayte,Calle Manuel Andres 6,43.307962,-3.0074457,227.53002578194952,bars,2,2.5
+KUETO,Taberna la Venta del Casco,"C/ Gran Vía, 3 Trasera, Plaza del Orfeón",43.3079833984375,-2.99651765823364,378.96850831247656,nightlife,1,3.0
+KUETO,Telepizza,Calle Villar y Villate 0,43.3087074,-3.0069886,317.9216731656203,restaurants,3,3.5
+KUETO,El VI,"Calle Villar y Villate, 2",43.3085289,-3.0072401,293.4862200919907,nightlife,1,4.0
+KUETO,Las Cepas,Vicente Blasco Ibáñez 14,43.30771476,-3.00393373,435.5330708217036,nightlife,1,4.0
+KUETO,Comic,"Vicente Blasco Ibañez Kalea, 20",43.30779433,-3.00243795,549.2254875135071,restaurants,1,1.0
+KUETO,Taberna la Venta del Kasko,Gran Vía 3,43.3079833984375,-2.99651765823364,719.6948122112676,tabernas,3,2.5
+KUETO,MC Donald's,Explanada Vega Vieja 0,43.3093903,-3.0072372,378.96850831247656,restaurants,3,2.5
+KUETO,Oh la la,Calle Vicente Blasco Ibañez 12,43.3075917,-3.0040866,416.303938804545,restaurants,4,3.5
+KUETO,Abarsiolo Meson,Calle Abatxolo 21,43.3152,-3.01412,1088.2369920044914,restaurants,1,5.0
+KUETO,Jai Alai,Del Conde Valmaseda 3 Plaza,43.3089485,-3.0062001,378.96850831247656,food,2,3.5
+KUETO,Edur-Mendi,"Gran Via Kalea, 3",43.3095622,-3.006886,407.23372869624666,restaurants,3,3.5
+KUETO,Ongi Etorri,"Calle Villar Y Villate, 4",43.3084949,-3.0074214,281.1516154210419,restaurants,1,1.0
+KUETO,cha cha,mendebal 2 calle,43.309066,-3.006335,378.96850831247656,bars,1,3.0
+KUETO,Alameda,Calle Alameda las Llanas 17,43.3093307,-3.0084291,350.6256846969171,bars,1,1.0
+KUETO,Kokolo,"Alberto Arrue Kalea, 8",43.309685,-3.009899,397.3061632303183,restaurants,1,2.0
+KUETO,Ferrara,"Plaza Casco, 1",43.3079833984375,-2.99651765823364,1018.2524948697135,restaurants,2,3.0
+KUETO,Bodega la Palmera C B,Calle Chavarri 93,43.3118186,-3.005872,670.6035947374847,bars,1,1.0
+KUETO,Duplex,"Calle Iparragirre, 1",43.3079105935486,-3.00791547140412,159.14008600585882,restaurants,1,4.0
+KUETO,Alameda,Calle Alameda las Llanas 17,43.3093307,-3.0084291,27.281843380025318,bars,1,1.0
+KUETO,Taberna la Venta del Casco,"C/ Gran Vía, 3 Trasera, Plaza del Orfeón",43.3079833984375,-2.99651765823364,69.42669900968414,nightlife,1,3.0
+KUETO,Edur-Mendi,"Gran Via Kalea, 3",43.3095622,-3.006886,100.76934555984683,restaurants,3,3.5
+KUETO,Telepizza,Calle Villar y Villate 0,43.3087074,-3.0069886,113.38571094132834,restaurants,3,3.5
+KUETO,Jai Alai,Del Conde Valmaseda 3 Plaza,43.3089485,-3.0062001,69.42669900968414,food,2,3.5
+KUETO,MC Donald's,Explanada Vega Vieja 0,43.3093903,-3.0072372,69.42669900968414,restaurants,3,2.5
+KUETO,El VI,"Calle Villar y Villate, 2",43.3085289,-3.0072401,104.92682086645847,nightlife,1,4.0
+KUETO,Bar Mayte,Calle Manuel Andres 6,43.307962,-3.0074457,161.48346031199358,bars,2,2.5
+KUETO,cha cha,mendebal 2 calle,43.309066,-3.006335,69.42669900968414,bars,1,3.0
+KUETO,Chino Mandarin,"Manuel Andrés, 12",43.3076515,-3.00704,204.32115725998128,restaurants,2,3.0
+KUETO,Kokolo,"Alberto Arrue Kalea, 8",43.309685,-3.009899,151.27028214942956,restaurants,1,2.0
+KUETO,Ongi Etorri,"Calle Villar Y Villate, 4",43.3084949,-3.0074214,108.12610942993501,restaurants,1,1.0
+KUETO,Las Cepas,Vicente Blasco Ibáñez 14,43.30771476,-3.00393373,385.1863552388527,nightlife,1,4.0
+KUETO,Comic,"Vicente Blasco Ibañez Kalea, 20",43.30779433,-3.00243795,488.5500048790761,restaurants,1,1.0
+KUETO,Oh la la,Calle Vicente Blasco Ibañez 12,43.3075917,-3.0040866,377.6952780962661,restaurants,4,3.5
+KUETO,Taberna la Venta del Kasko,Gran Vía 3,43.3079833984375,-2.99651765823364,694.2151274586438,tabernas,3,2.5
+KUETO,Abarsiolo Meson,Calle Abatxolo 21,43.3152,-3.01412,814.2665896823634,restaurants,1,5.0
+KUETO,Bodega la Palmera C B,Calle Chavarri 93,43.3118186,-3.005872,329.34574205919483,bars,1,1.0
+KUETO,Ferrara,"Plaza Casco, 1",43.3079833984375,-2.99651765823364,948.5152215299715,restaurants,2,3.0
+KUETO,Taberna la Venta del Kasko,Gran Vía 3,43.3079833984375,-2.99651765823364,85.83896471504279,tabernas,3,2.5
+KUETO,Comic,"Vicente Blasco Ibañez Kalea, 20",43.30779433,-3.00243795,160.35263020727194,restaurants,1,1.0
+KUETO,Las Cepas,Vicente Blasco Ibáñez 14,43.30771476,-3.00393373,278.45434911997535,nightlife,1,4.0
+KUETO,Oh la la,Calle Vicente Blasco Ibañez 12,43.3075917,-3.0040866,295.0726981092077,restaurants,4,3.5
+KUETO,Hamburguesería La Estación,"Calle Vicente Blasco Ibáñez, 28",43.3077164,-3.0021784,135.31124444690604,restaurants,1,3.0
+KUETO,Pizzeria Piccola,Calle Autonomia 18,43.3096095,-2.9991172,223.12976360789338,restaurants,1,3.0
+KUETO,Ferrara,"Plaza Casco, 1",43.3079833984375,-2.99651765823364,319.14339508911985,restaurants,2,3.0
+KUETO,Duplex,"Calle Iparragirre, 1",43.3079105935486,-3.00791547140412,603.4447888298519,restaurants,1,4.0
+KUETO,Taberna la Venta del Casco,"C/ Gran Vía, 3 Trasera, Plaza del Orfeón",43.3079833984375,-2.99651765823364,574.4450539987978,nightlife,1,3.0
+KUETO,Edur-Mendi,"Gran Via Kalea, 3",43.3095622,-3.006886,553.630498222683,restaurants,3,3.5
+KUETO,Chino Mandarin,"Manuel Andrés, 12",43.3076515,-3.00704,533.9285826687541,restaurants,2,3.0
+KUETO,Bar Mayte,Calle Manuel Andres 6,43.307962,-3.0074457,565.5257471778616,bars,2,2.5
+KUETO,MC Donald's,Explanada Vega Vieja 0,43.3093903,-3.0072372,574.4450539987978,restaurants,3,2.5
+KUETO,Bodega la Palmera C B,Calle Chavarri 93,43.3118186,-3.005872,621.3197994071865,bars,1,1.0
+KUETO,Alameda,Calle Alameda las Llanas 17,43.3093307,-3.0084291,665.4854474729206,bars,1,1.0
+KUETO,Telepizza,Calle Villar y Villate 0,43.3087074,-3.0069886,536.82758955793,restaurants,3,3.5
+KUETO,Restaurante Manhattan,Poligono Industrial Ibarzaharra 0,43.2989448,-3.0068224,1116.72470411048,restaurants,1,3.0
+KUETO,cha cha,mendebal 2 calle,43.309066,-3.006335,574.4450539987978,bars,1,3.0
+KUETO,El VI,"Calle Villar y Villate, 2",43.3085289,-3.0072401,560.5787471212344,nightlife,1,4.0
+KUETO,Jai Alai,Del Conde Valmaseda 3 Plaza,43.3089485,-3.0062001,574.4450539987978,food,2,3.5
+KUETO,Pizzeria Piccola,Calle Autonomia 18,43.3096095,-2.9991172,188.9125736741487,restaurants,1,3.0
+KUETO,Comic,"Vicente Blasco Ibañez Kalea, 20",43.30779433,-3.00243795,380.438309382877,restaurants,1,1.0
+KUETO,Taberna la Venta del Kasko,Gran Vía 3,43.3079833984375,-2.99651765823364,424.1189239424047,tabernas,3,2.5
+KUETO,Las Cepas,Vicente Blasco Ibáñez 14,43.30771476,-3.00393373,448.5464840673397,nightlife,1,4.0
+KUETO,Duplex,"Calle Iparragirre, 1",43.3079105935486,-3.00791547140412,682.5179557222258,restaurants,1,4.0
+KUETO,Taberna la Venta del Casco,"C/ Gran Vía, 3 Trasera, Plaza del Orfeón",43.3079833984375,-2.99651765823364,565.706042295782,nightlife,1,3.0
+KUETO,Oh la la,Calle Vicente Blasco Ibañez 12,43.3075917,-3.0040866,467.9434126220275,restaurants,4,3.5
+KUETO,Ferrara,"Plaza Casco, 1",43.3079833984375,-2.99651765823364,464.34452591355523,restaurants,2,3.0
+KUETO,Hamburguesería La Estación,"Calle Vicente Blasco Ibáñez, 28",43.3077164,-3.0021784,375.25629850640325,restaurants,1,3.0
+KUETO,Edur-Mendi,"Gran Via Kalea, 3",43.3095622,-3.006886,532.9113565378202,restaurants,3,3.5
+KUETO,Bodega la Palmera C B,Calle Chavarri 93,43.3118186,-3.005872,439.5913570846337,bars,1,1.0
+KUETO,MC Donald's,Explanada Vega Vieja 0,43.3093903,-3.0072372,565.706042295782,restaurants,3,2.5
+KUETO,Bar Mayte,Calle Manuel Andres 6,43.307962,-3.0074457,646.7745123764777,bars,2,2.5
+KUETO,Alameda,Calle Alameda las Llanas 17,43.3093307,-3.0084291,659.9993452426984,bars,1,1.0
+KUETO,Chino Mandarin,"Manuel Andrés, 12",43.3076515,-3.00704,638.0071696407861,restaurants,2,3.0
+KUETO,cha cha,mendebal 2 calle,43.309066,-3.006335,565.706042295782,bars,1,3.0
+KUETO,El VI,"Calle Villar y Villate, 2",43.3085289,-3.0072401,604.8181197820717,nightlife,1,4.0
+KUETO,Telepizza,Calle Villar y Villate 0,43.3087074,-3.0069886,574.9935025620833,restaurants,3,3.5
+KUETO,Jai Alai,Del Conde Valmaseda 3 Plaza,43.3089485,-3.0062001,565.706042295782,food,2,3.5
+KUETO,Kokolo,"Alberto Arrue Kalea, 8",43.309685,-3.009899,767.050390597197,restaurants,1,2.0
+LABE GARAIA/ALTO HORNO,Duplex,"Calle Iparragirre, 1",43.3079105935486,-3.00791547140412,205.68153249120064,restaurants,1,4.0
+LABE GARAIA/ALTO HORNO,Chino Mandarin,"Manuel Andrés, 12",43.3076515,-3.00704,219.2475270013093,restaurants,2,3.0
+LABE GARAIA/ALTO HORNO,Bar Mayte,Calle Manuel Andres 6,43.307962,-3.0074457,227.53002578194952,bars,2,2.5
+LABE GARAIA/ALTO HORNO,Taberna la Venta del Casco,"C/ Gran Vía, 3 Trasera, Plaza del Orfeón",43.3079833984375,-2.99651765823364,378.96850831247656,nightlife,1,3.0
+LABE GARAIA/ALTO HORNO,Telepizza,Calle Villar y Villate 0,43.3087074,-3.0069886,317.9216731656203,restaurants,3,3.5
+LABE GARAIA/ALTO HORNO,El VI,"Calle Villar y Villate, 2",43.3085289,-3.0072401,293.4862200919907,nightlife,1,4.0
+LABE GARAIA/ALTO HORNO,Las Cepas,Vicente Blasco Ibáñez 14,43.30771476,-3.00393373,435.5330708217036,nightlife,1,4.0
+LABE GARAIA/ALTO HORNO,Comic,"Vicente Blasco Ibañez Kalea, 20",43.30779433,-3.00243795,549.2254875135071,restaurants,1,1.0
+LABE GARAIA/ALTO HORNO,Taberna la Venta del Kasko,Gran Vía 3,43.3079833984375,-2.99651765823364,719.6948122112676,tabernas,3,2.5
+LABE GARAIA/ALTO HORNO,MC Donald's,Explanada Vega Vieja 0,43.3093903,-3.0072372,378.96850831247656,restaurants,3,2.5
+LABE GARAIA/ALTO HORNO,Oh la la,Calle Vicente Blasco Ibañez 12,43.3075917,-3.0040866,416.303938804545,restaurants,4,3.5
+LABE GARAIA/ALTO HORNO,Abarsiolo Meson,Calle Abatxolo 21,43.3152,-3.01412,1088.2369920044914,restaurants,1,5.0
+LABE GARAIA/ALTO HORNO,Jai Alai,Del Conde Valmaseda 3 Plaza,43.3089485,-3.0062001,378.96850831247656,food,2,3.5
+LABE GARAIA/ALTO HORNO,Edur-Mendi,"Gran Via Kalea, 3",43.3095622,-3.006886,407.23372869624666,restaurants,3,3.5
+LABE GARAIA/ALTO HORNO,Ongi Etorri,"Calle Villar Y Villate, 4",43.3084949,-3.0074214,281.1516154210419,restaurants,1,1.0
+LABE GARAIA/ALTO HORNO,cha cha,mendebal 2 calle,43.309066,-3.006335,378.96850831247656,bars,1,3.0
+LABE GARAIA/ALTO HORNO,Alameda,Calle Alameda las Llanas 17,43.3093307,-3.0084291,350.6256846969171,bars,1,1.0
+LABE GARAIA/ALTO HORNO,Kokolo,"Alberto Arrue Kalea, 8",43.309685,-3.009899,397.3061632303183,restaurants,1,2.0
+LABE GARAIA/ALTO HORNO,Ferrara,"Plaza Casco, 1",43.3079833984375,-2.99651765823364,1018.2524948697135,restaurants,2,3.0
+LABE GARAIA/ALTO HORNO,Bodega la Palmera C B,Calle Chavarri 93,43.3118186,-3.005872,670.6035947374847,bars,1,1.0
+LABE GARAIA/ALTO HORNO,Duplex,"Calle Iparragirre, 1",43.3079105935486,-3.00791547140412,159.14008600585882,restaurants,1,4.0
+LABE GARAIA/ALTO HORNO,Alameda,Calle Alameda las Llanas 17,43.3093307,-3.0084291,27.281843380025318,bars,1,1.0
+LABE GARAIA/ALTO HORNO,Taberna la Venta del Casco,"C/ Gran Vía, 3 Trasera, Plaza del Orfeón",43.3079833984375,-2.99651765823364,69.42669900968414,nightlife,1,3.0
+LABE GARAIA/ALTO HORNO,Edur-Mendi,"Gran Via Kalea, 3",43.3095622,-3.006886,100.76934555984683,restaurants,3,3.5
+LABE GARAIA/ALTO HORNO,Telepizza,Calle Villar y Villate 0,43.3087074,-3.0069886,113.38571094132834,restaurants,3,3.5
+LABE GARAIA/ALTO HORNO,Jai Alai,Del Conde Valmaseda 3 Plaza,43.3089485,-3.0062001,69.42669900968414,food,2,3.5
+LABE GARAIA/ALTO HORNO,MC Donald's,Explanada Vega Vieja 0,43.3093903,-3.0072372,69.42669900968414,restaurants,3,2.5
+LABE GARAIA/ALTO HORNO,El VI,"Calle Villar y Villate, 2",43.3085289,-3.0072401,104.92682086645847,nightlife,1,4.0
+LABE GARAIA/ALTO HORNO,Bar Mayte,Calle Manuel Andres 6,43.307962,-3.0074457,161.48346031199358,bars,2,2.5
+LABE GARAIA/ALTO HORNO,cha cha,mendebal 2 calle,43.309066,-3.006335,69.42669900968414,bars,1,3.0
+LABE GARAIA/ALTO HORNO,Chino Mandarin,"Manuel Andrés, 12",43.3076515,-3.00704,204.32115725998128,restaurants,2,3.0
+LABE GARAIA/ALTO HORNO,Kokolo,"Alberto Arrue Kalea, 8",43.309685,-3.009899,151.27028214942956,restaurants,1,2.0
+LABE GARAIA/ALTO HORNO,Ongi Etorri,"Calle Villar Y Villate, 4",43.3084949,-3.0074214,108.12610942993501,restaurants,1,1.0
+LABE GARAIA/ALTO HORNO,Las Cepas,Vicente Blasco Ibáñez 14,43.30771476,-3.00393373,385.1863552388527,nightlife,1,4.0
+LABE GARAIA/ALTO HORNO,Comic,"Vicente Blasco Ibañez Kalea, 20",43.30779433,-3.00243795,488.5500048790761,restaurants,1,1.0
+LABE GARAIA/ALTO HORNO,Oh la la,Calle Vicente Blasco Ibañez 12,43.3075917,-3.0040866,377.6952780962661,restaurants,4,3.5
+LABE GARAIA/ALTO HORNO,Taberna la Venta del Kasko,Gran Vía 3,43.3079833984375,-2.99651765823364,694.2151274586438,tabernas,3,2.5
+LABE GARAIA/ALTO HORNO,Abarsiolo Meson,Calle Abatxolo 21,43.3152,-3.01412,814.2665896823634,restaurants,1,5.0
+LABE GARAIA/ALTO HORNO,Bodega la Palmera C B,Calle Chavarri 93,43.3118186,-3.005872,329.34574205919483,bars,1,1.0
+LABE GARAIA/ALTO HORNO,Ferrara,"Plaza Casco, 1",43.3079833984375,-2.99651765823364,948.5152215299715,restaurants,2,3.0
+LABE GARAIA/ALTO HORNO,Taberna la Venta del Kasko,Gran Vía 3,43.3079833984375,-2.99651765823364,85.83896471504279,tabernas,3,2.5
+LABE GARAIA/ALTO HORNO,Comic,"Vicente Blasco Ibañez Kalea, 20",43.30779433,-3.00243795,160.35263020727194,restaurants,1,1.0
+LABE GARAIA/ALTO HORNO,Las Cepas,Vicente Blasco Ibáñez 14,43.30771476,-3.00393373,278.45434911997535,nightlife,1,4.0
+LABE GARAIA/ALTO HORNO,Oh la la,Calle Vicente Blasco Ibañez 12,43.3075917,-3.0040866,295.0726981092077,restaurants,4,3.5
+LABE GARAIA/ALTO HORNO,Hamburguesería La Estación,"Calle Vicente Blasco Ibáñez, 28",43.3077164,-3.0021784,135.31124444690604,restaurants,1,3.0
+LABE GARAIA/ALTO HORNO,Pizzeria Piccola,Calle Autonomia 18,43.3096095,-2.9991172,223.12976360789338,restaurants,1,3.0
+LABE GARAIA/ALTO HORNO,Ferrara,"Plaza Casco, 1",43.3079833984375,-2.99651765823364,319.14339508911985,restaurants,2,3.0
+LABE GARAIA/ALTO HORNO,Duplex,"Calle Iparragirre, 1",43.3079105935486,-3.00791547140412,603.4447888298519,restaurants,1,4.0
+LABE GARAIA/ALTO HORNO,Taberna la Venta del Casco,"C/ Gran Vía, 3 Trasera, Plaza del Orfeón",43.3079833984375,-2.99651765823364,574.4450539987978,nightlife,1,3.0
+LABE GARAIA/ALTO HORNO,Edur-Mendi,"Gran Via Kalea, 3",43.3095622,-3.006886,553.630498222683,restaurants,3,3.5
+LABE GARAIA/ALTO HORNO,Chino Mandarin,"Manuel Andrés, 12",43.3076515,-3.00704,533.9285826687541,restaurants,2,3.0
+LABE GARAIA/ALTO HORNO,Bar Mayte,Calle Manuel Andres 6,43.307962,-3.0074457,565.5257471778616,bars,2,2.5
+LABE GARAIA/ALTO HORNO,MC Donald's,Explanada Vega Vieja 0,43.3093903,-3.0072372,574.4450539987978,restaurants,3,2.5
+LABE GARAIA/ALTO HORNO,Bodega la Palmera C B,Calle Chavarri 93,43.3118186,-3.005872,621.3197994071865,bars,1,1.0
+LABE GARAIA/ALTO HORNO,Alameda,Calle Alameda las Llanas 17,43.3093307,-3.0084291,665.4854474729206,bars,1,1.0
+LABE GARAIA/ALTO HORNO,Telepizza,Calle Villar y Villate 0,43.3087074,-3.0069886,536.82758955793,restaurants,3,3.5
+LABE GARAIA/ALTO HORNO,Restaurante Manhattan,Poligono Industrial Ibarzaharra 0,43.2989448,-3.0068224,1116.72470411048,restaurants,1,3.0
+LABE GARAIA/ALTO HORNO,cha cha,mendebal 2 calle,43.309066,-3.006335,574.4450539987978,bars,1,3.0
+LABE GARAIA/ALTO HORNO,El VI,"Calle Villar y Villate, 2",43.3085289,-3.0072401,560.5787471212344,nightlife,1,4.0
+LABE GARAIA/ALTO HORNO,Jai Alai,Del Conde Valmaseda 3 Plaza,43.3089485,-3.0062001,574.4450539987978,food,2,3.5
+LABE GARAIA/ALTO HORNO,Pizzeria Piccola,Calle Autonomia 18,43.3096095,-2.9991172,188.9125736741487,restaurants,1,3.0
+LABE GARAIA/ALTO HORNO,Comic,"Vicente Blasco Ibañez Kalea, 20",43.30779433,-3.00243795,380.438309382877,restaurants,1,1.0
+LABE GARAIA/ALTO HORNO,Taberna la Venta del Kasko,Gran Vía 3,43.3079833984375,-2.99651765823364,424.1189239424047,tabernas,3,2.5
+LABE GARAIA/ALTO HORNO,Las Cepas,Vicente Blasco Ibáñez 14,43.30771476,-3.00393373,448.5464840673397,nightlife,1,4.0
+LABE GARAIA/ALTO HORNO,Duplex,"Calle Iparragirre, 1",43.3079105935486,-3.00791547140412,682.5179557222258,restaurants,1,4.0
+LABE GARAIA/ALTO HORNO,Taberna la Venta del Casco,"C/ Gran Vía, 3 Trasera, Plaza del Orfeón",43.3079833984375,-2.99651765823364,565.706042295782,nightlife,1,3.0
+LABE GARAIA/ALTO HORNO,Oh la la,Calle Vicente Blasco Ibañez 12,43.3075917,-3.0040866,467.9434126220275,restaurants,4,3.5
+LABE GARAIA/ALTO HORNO,Ferrara,"Plaza Casco, 1",43.3079833984375,-2.99651765823364,464.34452591355523,restaurants,2,3.0
+LABE GARAIA/ALTO HORNO,Hamburguesería La Estación,"Calle Vicente Blasco Ibáñez, 28",43.3077164,-3.0021784,375.25629850640325,restaurants,1,3.0
+LABE GARAIA/ALTO HORNO,Edur-Mendi,"Gran Via Kalea, 3",43.3095622,-3.006886,532.9113565378202,restaurants,3,3.5
+LABE GARAIA/ALTO HORNO,Bodega la Palmera C B,Calle Chavarri 93,43.3118186,-3.005872,439.5913570846337,bars,1,1.0
+LABE GARAIA/ALTO HORNO,MC Donald's,Explanada Vega Vieja 0,43.3093903,-3.0072372,565.706042295782,restaurants,3,2.5
+LABE GARAIA/ALTO HORNO,Bar Mayte,Calle Manuel Andres 6,43.307962,-3.0074457,646.7745123764777,bars,2,2.5
+LABE GARAIA/ALTO HORNO,Alameda,Calle Alameda las Llanas 17,43.3093307,-3.0084291,659.9993452426984,bars,1,1.0
+LABE GARAIA/ALTO HORNO,Chino Mandarin,"Manuel Andrés, 12",43.3076515,-3.00704,638.0071696407861,restaurants,2,3.0
+LABE GARAIA/ALTO HORNO,cha cha,mendebal 2 calle,43.309066,-3.006335,565.706042295782,bars,1,3.0
+LABE GARAIA/ALTO HORNO,El VI,"Calle Villar y Villate, 2",43.3085289,-3.0072401,604.8181197820717,nightlife,1,4.0
+LABE GARAIA/ALTO HORNO,Telepizza,Calle Villar y Villate 0,43.3087074,-3.0069886,574.9935025620833,restaurants,3,3.5
+LABE GARAIA/ALTO HORNO,Jai Alai,Del Conde Valmaseda 3 Plaza,43.3089485,-3.0062001,565.706042295782,food,2,3.5
+LABE GARAIA/ALTO HORNO,Kokolo,"Alberto Arrue Kalea, 8",43.309685,-3.009899,767.050390597197,restaurants,1,2.0
