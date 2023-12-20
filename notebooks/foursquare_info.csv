@@ -1,0 +1,417 @@
+Station Name,Business Name,Business Address,Business Latitude,Business Longitude,Business Distance,Business Category
+GALINDO,Bar Terraco,"Calle Manuel Andrés, 10, Sestao Vizcaya",43.30771,-3.00725,212,Bar
+GALINDO,María del Pilar Barberó Cruz,"Calle Juan Tomás de Gandarías, 7, 48910 Sestao Vizcaya",43.307178,-3.006374,228,Bakery
+GALINDO,Bar Palas,"Calle Villar y Villate, 11, 48910 Sestao País Vasco",43.30815,-3.007449,231,Bar
+GALINDO,Bar Mayte,"Calle Manuel Andrés, 6, 48910 Sestao País Vasco",43.307915,-3.007476,243,Bar
+GALINDO,Barrika,"Calle Juan Tomás de Gandarías, 1, 48910 Sestao Vizcaya",43.307638,-3.005925,286,Bar
+GALINDO,Viajes Barcelo,"Calle Villar y Villate, 8, Sestao Vizcaya",43.308497,-3.006971,298,Travel Agency
+GALINDO,Bar Viuda de Baldo,"Calle Alameda las Llanas, 13, Sestao País Vasco",43.309111,-3.00813,336,Wine Bar
+GALINDO,Cafetería - Restaurante Castañares,"Alameda las Llanas, 13, 48910 Sestao País Vasco",43.309173,-3.008102,336,Bar
+GALINDO,La Barrita de Pan,"Alda. las Llanas, 15, 48910 Sestao Vizcaya",43.309203,-3.008327,337,Bakery
+GALINDO,Bar Ganbara,"Plaza de San Pedro, 2, 48910 Sestao Vizcaya",43.308067,-3.00525,346,Arts and Entertainment
+GALINDO,Rosalia Peralta Barcala,"Calle Lorenzo Llona, 9, 48910 Sestao Vizcaya",43.308384,-3.005505,364,Physician
+GALINDO,Bar Alba Delri,"Gran Vía, 3, 48910 Sestao Vizcaya",43.309694,-3.007146,412,Bar
+GALINDO,Bar Tribuna,"Alda las Llanas, 35, 48910 Sestao País Vasco",43.310411,-3.010814,505,Bar
+GALINDO,Bar Bost,"Vicente Blasco Ibañez Kalea, 22, Sestao Vizcaya",43.307698,-3.002542,535,Bar
+GALINDO,Bar Vega,"Calle de José María Usandizaga, 4, 48910 Sestao País Vasco",43.309642,-3.003734,564,Bar
+GALINDO,Bar Ninfas,"Calle Vicente Blasco Ibáñez, 30 Bajo, 48910 Sestao País Vasco",43.307698,-3.002063,574,Bar
+GALINDO,Bar Fernando,"Chavarri, 83, 48910 Sestao País Vasco",43.311237,-3.004446,664,Bar
+GALINDO,Hostal Restaurante Agarimo,"Barrio Galindo, s/n, 48510 Valle de Trapaga País Vasco",43.303356,-3.016421,688,Hostel
+GALINDO,Bar Brenez,"M. Cervantes, 29, 48910 Sestao Vizcaya",43.309395,-2.999533,833,Bar
+GALINDO,Restaurante Manhattan,"Pol. Ibarzaharra. s/n, 48910 Sestao País Vasco",43.309704,-3.00754,836,Fast Food Restaurant
+GALINDO,Petisco Restaurante,"Carretera San Vicente Polígono Industrial Aurrera, s/n, 48510 Valle de Trápaga-Trapagaran País Vasco",43.300799,-3.017904,946,Dessert Shop
+GALINDO,B travel (B the Travel Brand),"Pza. el Kasko, 3, 48910 Sestao País Vasco",43.307522,-2.99727,949,Travel Agency
+GALINDO,Bar Paz,"Grupo Alfredo Alonso Allende, 30, 48920 Portugalete País Vasco",43.313205,-3.016493,1001,Bar
+GALINDO,Bar Denak,"Chavarri, 18, 48910 Sestao País Vasco",43.311288,-3.004023,1613,Bar
+GALINDO,Cafetería - Restaurante Castañares,"Alameda las Llanas, 13, 48910 Sestao País Vasco",43.309173,-3.008102,18,Bar
+GALINDO,La Barrita de Pan,"Alda. las Llanas, 15, 48910 Sestao Vizcaya",43.309203,-3.008327,24,Bakery
+GALINDO,Bar Viuda de Baldo,"Calle Alameda las Llanas, 13, Sestao País Vasco",43.309111,-3.00813,25,Wine Bar
+GALINDO,Bar Alba Delri,"Gran Vía, 3, 48910 Sestao Vizcaya",43.309694,-3.007146,86,Bar
+GALINDO,Viajes Barcelo,"Calle Villar y Villate, 8, Sestao Vizcaya",43.308497,-3.006971,130,Travel Agency
+GALINDO,Bar Palas,"Calle Villar y Villate, 11, 48910 Sestao País Vasco",43.30815,-3.007449,154,Bar
+GALINDO,Bar Mayte,"Calle Manuel Andrés, 6, 48910 Sestao País Vasco",43.307915,-3.007476,174,Bar
+GALINDO,Bar Terraco,"Calle Manuel Andrés, 10, Sestao Vizcaya",43.30771,-3.00725,193,Bar
+GALINDO,Rosalia Peralta Barcala,"Calle Lorenzo Llona, 9, 48910 Sestao Vizcaya",43.308384,-3.005505,234,Physician
+GALINDO,Bar Tribuna,"Alda las Llanas, 35, 48910 Sestao País Vasco",43.310411,-3.010814,250,Bar
+GALINDO,Barrika,"Calle Juan Tomás de Gandarías, 1, 48910 Sestao Vizcaya",43.307638,-3.005925,257,Bar
+GALINDO,Bar Ganbara,"Plaza de San Pedro, 2, 48910 Sestao Vizcaya",43.308067,-3.00525,270,Arts and Entertainment
+GALINDO,María del Pilar Barberó Cruz,"Calle Juan Tomás de Gandarías, 7, 48910 Sestao Vizcaya",43.307178,-3.006374,277,Bakery
+GALINDO,Bar Vega,"Calle de José María Usandizaga, 4, 48910 Sestao País Vasco",43.309642,-3.003734,354,Bar
+GALINDO,Bar Fernando,"Chavarri, 83, 48910 Sestao País Vasco",43.311237,-3.004446,362,Bar
+GALINDO,Bar Bost,"Vicente Blasco Ibañez Kalea, 22, Sestao Vizcaya",43.307698,-3.002542,460,Bar
+GALINDO,Bar Ninfas,"Calle Vicente Blasco Ibáñez, 30 Bajo, 48910 Sestao País Vasco",43.307698,-3.002063,520,Bar
+GALINDO,Bar Brenez,"M. Cervantes, 29, 48910 Sestao Vizcaya",43.309395,-2.999533,692,Bar
+GALINDO,Bar Paz,"Grupo Alfredo Alonso Allende, 30, 48920 Portugalete País Vasco",43.313205,-3.016493,811,Bar
+GALINDO,B travel (B the Travel Brand),"Pza. el Kasko, 3, 48910 Sestao País Vasco",43.307522,-2.99727,898,Travel Agency
+GALINDO,Adrian Cafeteria Restaurante,"Plaza Gorbea Mendi, 5, 48920 Portugalete País Vasco",43.314892,-3.016923,940,Restaurant
+GALINDO,Hostal Restaurante Agarimo,"Barrio Galindo, s/n, 48510 Valle de Trapaga País Vasco",43.303356,-3.016421,946,Hostel
+GALINDO,Bar Andoni,"Plaza Gorbea - Mendía, 1, 48920 Portugalete Vizcaya",43.314759,-3.017543,973,Bar
+GALINDO,Bar Virginia,"Avenida Ramón y Cajal, 13, 48920 Portugalete Vizcaya",43.314555,-3.017796,975,Bar
+GALINDO,Alfredo Baroja Ruiz de Azua,"Plaza Gorbea - Mendía, 2, 48920 Portugalete Vizcaya",43.314821,-3.017515,975,Shoe Store
+GALINDO,Restaurante Manhattan,"Pol. Ibarzaharra. s/n, 48910 Sestao País Vasco",43.309704,-3.00754,1166,Fast Food Restaurant
+GALINDO,Bar Denak,"Chavarri, 18, 48910 Sestao País Vasco",43.311288,-3.004023,1444,Bar
+GALINDO,Bar Ninfas,"Calle Vicente Blasco Ibáñez, 30 Bajo, 48910 Sestao País Vasco",43.307698,-3.002063,130,Bar
+GALINDO,Bar Bost,"Vicente Blasco Ibañez Kalea, 22, Sestao Vizcaya",43.307698,-3.002542,182,Bar
+GALINDO,Bar Brenez,"M. Cervantes, 29, 48910 Sestao Vizcaya",43.309395,-2.999533,186,Bar
+GALINDO,B travel (B the Travel Brand),"Pza. el Kasko, 3, 48910 Sestao País Vasco",43.307522,-2.99727,260,Travel Agency
+GALINDO,Bar Vega,"Calle de José María Usandizaga, 4, 48910 Sestao País Vasco",43.309642,-3.003734,331,Bar
+GALINDO,Bar Ganbara,"Plaza de San Pedro, 2, 48910 Sestao Vizcaya",43.308067,-3.00525,393,Arts and Entertainment
+GALINDO,Rosalia Peralta Barcala,"Calle Lorenzo Llona, 9, 48910 Sestao Vizcaya",43.308384,-3.005505,412,Physician
+GALINDO,Barrika,"Calle Juan Tomás de Gandarías, 1, 48910 Sestao Vizcaya",43.307638,-3.005925,442,Bar
+GALINDO,María del Pilar Barberó Cruz,"Calle Juan Tomás de Gandarías, 7, 48910 Sestao Vizcaya",43.307178,-3.006374,484,Bakery
+GALINDO,Bar Fernando,"Chavarri, 83, 48910 Sestao País Vasco",43.311237,-3.004446,495,Bar
+GALINDO,Viajes Barcelo,"Calle Villar y Villate, 8, Sestao Vizcaya",43.308497,-3.006971,531,Travel Agency
+GALINDO,Bar Mayte,"Calle Manuel Andrés, 6, 48910 Sestao País Vasco",43.307915,-3.007476,535,Bar
+GALINDO,Bar Terraco,"Calle Manuel Andrés, 10, Sestao Vizcaya",43.30771,-3.00725,549,Bar
+GALINDO,Bar Palas,"Calle Villar y Villate, 11, 48910 Sestao País Vasco",43.30815,-3.007449,568,Bar
+GALINDO,Bar Alba Delri,"Gran Vía, 3, 48910 Sestao Vizcaya",43.309694,-3.007146,578,Bar
+GALINDO,Bar Viuda de Baldo,"Calle Alameda las Llanas, 13, Sestao País Vasco",43.309111,-3.00813,620,Wine Bar
+GALINDO,Cafetería - Restaurante Castañares,"Alameda las Llanas, 13, 48910 Sestao País Vasco",43.309173,-3.008102,635,Bar
+GALINDO,La Barrita de Pan,"Alda. las Llanas, 15, 48910 Sestao Vizcaya",43.309203,-3.008327,653,Bakery
+GALINDO,U.T.E.Baracaldo-Ferrovial-Samos,"Calle Beurko Viejo, s/n, 48902 Barakaldo Vizcaya",43.302051,-2.997444,689,
+GALINDO,Barakauto Motor,"Ibaibe Kalea, 5, 48901 Barakaldo País Vasco",43.302449,-2.995586,709,Automotive Repair Shop
+GALINDO,Taller de lunas en Barakaldo,"Calle Ibaibe,15B, 48901 Barakaldo Vizcaya",43.302449,-2.995107,740,
+GALINDO,Bar Tribuna,"Alda las Llanas, 35, 48910 Sestao País Vasco",43.310411,-3.010814,880,Bar
+GALINDO,Bar Denak,"Chavarri, 18, 48910 Sestao País Vasco",43.311288,-3.004023,924,Bar
+GALINDO,Hotel Naval Sestao,"La Naval, 3, 48910 Sestao País Vasco",43.308633,-2.989015,927,Hotel
+GALINDO,Restaurante Amatxu Cafetería,"Avenida Libertad, 63, 48901 Barakaldo País Vasco",43.301794,-2.992849,933,Bar
+GALINDO,Escuela Universitaria de Ingenieria Tecnica Minera de Barakaldo,"Colina Beurko, s/n, 48902  Vizcaya",43.299505,-2.997406,960,College and University
+GALINDO,Oficina de Empleo Barakaldo,"Luis Castresana, 9, 48902 Barakaldo País Vasco",43.302711,-2.990885,962,Office
+GALINDO,Restaurante Manhattan,"Pol. Ibarzaharra. s/n, 48910 Sestao País Vasco",43.309704,-3.00754,1092,Fast Food Restaurant
+GALINDO,Hotel Naval Sestao,"Ribera de la Ria, s/n, 48910 Sestao País Vasco",43.308715,-2.989297,1858,Hotel
+GALINDO,Bar Brenez,"M. Cervantes, 29, 48910 Sestao Vizcaya",43.309395,-2.999533,190,Bar
+GALINDO,Bar Vega,"Calle de José María Usandizaga, 4, 48910 Sestao País Vasco",43.309642,-3.003734,293,Bar
+GALINDO,Bar Fernando,"Chavarri, 83, 48910 Sestao País Vasco",43.311237,-3.004446,314,Bar
+GALINDO,Bar Bost,"Vicente Blasco Ibañez Kalea, 22, Sestao Vizcaya",43.307698,-3.002542,371,Bar
+GALINDO,Bar Ninfas,"Calle Vicente Blasco Ibáñez, 30 Bajo, 48910 Sestao País Vasco",43.307698,-3.002063,379,Bar
+GALINDO,B travel (B the Travel Brand),"Pza. el Kasko, 3, 48910 Sestao País Vasco",43.307522,-2.99727,462,Travel Agency
+GALINDO,Rosalia Peralta Barcala,"Calle Lorenzo Llona, 9, 48910 Sestao Vizcaya",43.308384,-3.005505,489,Physician
+GALINDO,Bar Ganbara,"Plaza de San Pedro, 2, 48910 Sestao Vizcaya",43.308067,-3.00525,506,Arts and Entertainment
+GALINDO,Bar Alba Delri,"Gran Vía, 3, 48910 Sestao Vizcaya",43.309694,-3.007146,548,Bar
+GALINDO,Barrika,"Calle Juan Tomás de Gandarías, 1, 48910 Sestao Vizcaya",43.307638,-3.005925,566,Bar
+GALINDO,Viajes Barcelo,"Calle Villar y Villate, 8, Sestao Vizcaya",43.308497,-3.006971,583,Travel Agency
+GALINDO,Bar Mayte,"Calle Manuel Andrés, 6, 48910 Sestao País Vasco",43.307915,-3.007476,621,Bar
+GALINDO,Bar Viuda de Baldo,"Calle Alameda las Llanas, 13, Sestao País Vasco",43.309111,-3.00813,626,Wine Bar
+GALINDO,María del Pilar Barberó Cruz,"Calle Juan Tomás de Gandarías, 7, 48910 Sestao Vizcaya",43.307178,-3.006374,627,Bakery
+GALINDO,Cafetería - Restaurante Castañares,"Alameda las Llanas, 13, 48910 Sestao País Vasco",43.309173,-3.008102,639,Bar
+GALINDO,Bar Palas,"Calle Villar y Villate, 11, 48910 Sestao País Vasco",43.30815,-3.007449,645,Bar
+GALINDO,Bar Terraco,"Calle Manuel Andrés, 10, Sestao Vizcaya",43.30771,-3.00725,647,Bar
+GALINDO,La Barrita de Pan,"Alda. las Llanas, 15, 48910 Sestao Vizcaya",43.309203,-3.008327,655,Bakery
+GALINDO,Bar Denak,"Chavarri, 18, 48910 Sestao País Vasco",43.311288,-3.004023,814,Bar
+GALINDO,Bar Tribuna,"Alda las Llanas, 35, 48910 Sestao País Vasco",43.310411,-3.010814,820,Bar
+GALINDO,Carlson Wagonlit Travel,"Avenida Autonomía Pol. Emp. Udondo, 4, 48940 Leioa Vizcaya",43.318518,-3.004166,891,Travel Agency
+GALINDO,Hotel Naval Sestao,"La Naval, 3, 48910 Sestao País Vasco",43.308633,-2.989015,967,Hotel
+GALINDO,Restaurante Manhattan,"Pol. Ibarzaharra. s/n, 48910 Sestao País Vasco",43.309704,-3.00754,1407,Fast Food Restaurant
+GALINDO,Hotel Naval Sestao,"Ribera de la Ria, s/n, 48910 Sestao País Vasco",43.308715,-2.989297,1871,Hotel
+KASKO,Bar Terraco,"Calle Manuel Andrés, 10, Sestao Vizcaya",43.30771,-3.00725,212,Bar
+KASKO,María del Pilar Barberó Cruz,"Calle Juan Tomás de Gandarías, 7, 48910 Sestao Vizcaya",43.307178,-3.006374,228,Bakery
+KASKO,Bar Palas,"Calle Villar y Villate, 11, 48910 Sestao País Vasco",43.30815,-3.007449,231,Bar
+KASKO,Bar Mayte,"Calle Manuel Andrés, 6, 48910 Sestao País Vasco",43.307915,-3.007476,243,Bar
+KASKO,Barrika,"Calle Juan Tomás de Gandarías, 1, 48910 Sestao Vizcaya",43.307638,-3.005925,286,Bar
+KASKO,Viajes Barcelo,"Calle Villar y Villate, 8, Sestao Vizcaya",43.308497,-3.006971,298,Travel Agency
+KASKO,Bar Viuda de Baldo,"Calle Alameda las Llanas, 13, Sestao País Vasco",43.309111,-3.00813,336,Wine Bar
+KASKO,Cafetería - Restaurante Castañares,"Alameda las Llanas, 13, 48910 Sestao País Vasco",43.309173,-3.008102,336,Bar
+KASKO,La Barrita de Pan,"Alda. las Llanas, 15, 48910 Sestao Vizcaya",43.309203,-3.008327,337,Bakery
+KASKO,Bar Ganbara,"Plaza de San Pedro, 2, 48910 Sestao Vizcaya",43.308067,-3.00525,346,Arts and Entertainment
+KASKO,Rosalia Peralta Barcala,"Calle Lorenzo Llona, 9, 48910 Sestao Vizcaya",43.308384,-3.005505,364,Physician
+KASKO,Bar Alba Delri,"Gran Vía, 3, 48910 Sestao Vizcaya",43.309694,-3.007146,412,Bar
+KASKO,Bar Tribuna,"Alda las Llanas, 35, 48910 Sestao País Vasco",43.310411,-3.010814,505,Bar
+KASKO,Bar Bost,"Vicente Blasco Ibañez Kalea, 22, Sestao Vizcaya",43.307698,-3.002542,535,Bar
+KASKO,Bar Vega,"Calle de José María Usandizaga, 4, 48910 Sestao País Vasco",43.309642,-3.003734,564,Bar
+KASKO,Bar Ninfas,"Calle Vicente Blasco Ibáñez, 30 Bajo, 48910 Sestao País Vasco",43.307698,-3.002063,574,Bar
+KASKO,Bar Fernando,"Chavarri, 83, 48910 Sestao País Vasco",43.311237,-3.004446,664,Bar
+KASKO,Hostal Restaurante Agarimo,"Barrio Galindo, s/n, 48510 Valle de Trapaga País Vasco",43.303356,-3.016421,688,Hostel
+KASKO,Bar Brenez,"M. Cervantes, 29, 48910 Sestao Vizcaya",43.309395,-2.999533,833,Bar
+KASKO,Restaurante Manhattan,"Pol. Ibarzaharra. s/n, 48910 Sestao País Vasco",43.309704,-3.00754,836,Fast Food Restaurant
+KASKO,Petisco Restaurante,"Carretera San Vicente Polígono Industrial Aurrera, s/n, 48510 Valle de Trápaga-Trapagaran País Vasco",43.300799,-3.017904,946,Dessert Shop
+KASKO,B travel (B the Travel Brand),"Pza. el Kasko, 3, 48910 Sestao País Vasco",43.307522,-2.99727,949,Travel Agency
+KASKO,Bar Paz,"Grupo Alfredo Alonso Allende, 30, 48920 Portugalete País Vasco",43.313205,-3.016493,1001,Bar
+KASKO,Bar Denak,"Chavarri, 18, 48910 Sestao País Vasco",43.311288,-3.004023,1613,Bar
+KASKO,Cafetería - Restaurante Castañares,"Alameda las Llanas, 13, 48910 Sestao País Vasco",43.309173,-3.008102,18,Bar
+KASKO,La Barrita de Pan,"Alda. las Llanas, 15, 48910 Sestao Vizcaya",43.309203,-3.008327,24,Bakery
+KASKO,Bar Viuda de Baldo,"Calle Alameda las Llanas, 13, Sestao País Vasco",43.309111,-3.00813,25,Wine Bar
+KASKO,Bar Alba Delri,"Gran Vía, 3, 48910 Sestao Vizcaya",43.309694,-3.007146,86,Bar
+KASKO,Viajes Barcelo,"Calle Villar y Villate, 8, Sestao Vizcaya",43.308497,-3.006971,130,Travel Agency
+KASKO,Bar Palas,"Calle Villar y Villate, 11, 48910 Sestao País Vasco",43.30815,-3.007449,154,Bar
+KASKO,Bar Mayte,"Calle Manuel Andrés, 6, 48910 Sestao País Vasco",43.307915,-3.007476,174,Bar
+KASKO,Bar Terraco,"Calle Manuel Andrés, 10, Sestao Vizcaya",43.30771,-3.00725,193,Bar
+KASKO,Rosalia Peralta Barcala,"Calle Lorenzo Llona, 9, 48910 Sestao Vizcaya",43.308384,-3.005505,234,Physician
+KASKO,Bar Tribuna,"Alda las Llanas, 35, 48910 Sestao País Vasco",43.310411,-3.010814,250,Bar
+KASKO,Barrika,"Calle Juan Tomás de Gandarías, 1, 48910 Sestao Vizcaya",43.307638,-3.005925,257,Bar
+KASKO,Bar Ganbara,"Plaza de San Pedro, 2, 48910 Sestao Vizcaya",43.308067,-3.00525,270,Arts and Entertainment
+KASKO,María del Pilar Barberó Cruz,"Calle Juan Tomás de Gandarías, 7, 48910 Sestao Vizcaya",43.307178,-3.006374,277,Bakery
+KASKO,Bar Vega,"Calle de José María Usandizaga, 4, 48910 Sestao País Vasco",43.309642,-3.003734,354,Bar
+KASKO,Bar Fernando,"Chavarri, 83, 48910 Sestao País Vasco",43.311237,-3.004446,362,Bar
+KASKO,Bar Bost,"Vicente Blasco Ibañez Kalea, 22, Sestao Vizcaya",43.307698,-3.002542,460,Bar
+KASKO,Bar Ninfas,"Calle Vicente Blasco Ibáñez, 30 Bajo, 48910 Sestao País Vasco",43.307698,-3.002063,520,Bar
+KASKO,Bar Brenez,"M. Cervantes, 29, 48910 Sestao Vizcaya",43.309395,-2.999533,692,Bar
+KASKO,Bar Paz,"Grupo Alfredo Alonso Allende, 30, 48920 Portugalete País Vasco",43.313205,-3.016493,811,Bar
+KASKO,B travel (B the Travel Brand),"Pza. el Kasko, 3, 48910 Sestao País Vasco",43.307522,-2.99727,898,Travel Agency
+KASKO,Adrian Cafeteria Restaurante,"Plaza Gorbea Mendi, 5, 48920 Portugalete País Vasco",43.314892,-3.016923,940,Restaurant
+KASKO,Hostal Restaurante Agarimo,"Barrio Galindo, s/n, 48510 Valle de Trapaga País Vasco",43.303356,-3.016421,946,Hostel
+KASKO,Bar Andoni,"Plaza Gorbea - Mendía, 1, 48920 Portugalete Vizcaya",43.314759,-3.017543,973,Bar
+KASKO,Bar Virginia,"Avenida Ramón y Cajal, 13, 48920 Portugalete Vizcaya",43.314555,-3.017796,975,Bar
+KASKO,Alfredo Baroja Ruiz de Azua,"Plaza Gorbea - Mendía, 2, 48920 Portugalete Vizcaya",43.314821,-3.017515,975,Shoe Store
+KASKO,Restaurante Manhattan,"Pol. Ibarzaharra. s/n, 48910 Sestao País Vasco",43.309704,-3.00754,1166,Fast Food Restaurant
+KASKO,Bar Denak,"Chavarri, 18, 48910 Sestao País Vasco",43.311288,-3.004023,1444,Bar
+KASKO,Bar Ninfas,"Calle Vicente Blasco Ibáñez, 30 Bajo, 48910 Sestao País Vasco",43.307698,-3.002063,130,Bar
+KASKO,Bar Bost,"Vicente Blasco Ibañez Kalea, 22, Sestao Vizcaya",43.307698,-3.002542,182,Bar
+KASKO,Bar Brenez,"M. Cervantes, 29, 48910 Sestao Vizcaya",43.309395,-2.999533,186,Bar
+KASKO,B travel (B the Travel Brand),"Pza. el Kasko, 3, 48910 Sestao País Vasco",43.307522,-2.99727,260,Travel Agency
+KASKO,Bar Vega,"Calle de José María Usandizaga, 4, 48910 Sestao País Vasco",43.309642,-3.003734,331,Bar
+KASKO,Bar Ganbara,"Plaza de San Pedro, 2, 48910 Sestao Vizcaya",43.308067,-3.00525,393,Arts and Entertainment
+KASKO,Rosalia Peralta Barcala,"Calle Lorenzo Llona, 9, 48910 Sestao Vizcaya",43.308384,-3.005505,412,Physician
+KASKO,Barrika,"Calle Juan Tomás de Gandarías, 1, 48910 Sestao Vizcaya",43.307638,-3.005925,442,Bar
+KASKO,María del Pilar Barberó Cruz,"Calle Juan Tomás de Gandarías, 7, 48910 Sestao Vizcaya",43.307178,-3.006374,484,Bakery
+KASKO,Bar Fernando,"Chavarri, 83, 48910 Sestao País Vasco",43.311237,-3.004446,495,Bar
+KASKO,Viajes Barcelo,"Calle Villar y Villate, 8, Sestao Vizcaya",43.308497,-3.006971,531,Travel Agency
+KASKO,Bar Mayte,"Calle Manuel Andrés, 6, 48910 Sestao País Vasco",43.307915,-3.007476,535,Bar
+KASKO,Bar Terraco,"Calle Manuel Andrés, 10, Sestao Vizcaya",43.30771,-3.00725,549,Bar
+KASKO,Bar Palas,"Calle Villar y Villate, 11, 48910 Sestao País Vasco",43.30815,-3.007449,568,Bar
+KASKO,Bar Alba Delri,"Gran Vía, 3, 48910 Sestao Vizcaya",43.309694,-3.007146,578,Bar
+KASKO,Bar Viuda de Baldo,"Calle Alameda las Llanas, 13, Sestao País Vasco",43.309111,-3.00813,620,Wine Bar
+KASKO,Cafetería - Restaurante Castañares,"Alameda las Llanas, 13, 48910 Sestao País Vasco",43.309173,-3.008102,635,Bar
+KASKO,La Barrita de Pan,"Alda. las Llanas, 15, 48910 Sestao Vizcaya",43.309203,-3.008327,653,Bakery
+KASKO,U.T.E.Baracaldo-Ferrovial-Samos,"Calle Beurko Viejo, s/n, 48902 Barakaldo Vizcaya",43.302051,-2.997444,689,
+KASKO,Barakauto Motor,"Ibaibe Kalea, 5, 48901 Barakaldo País Vasco",43.302449,-2.995586,709,Automotive Repair Shop
+KASKO,Taller de lunas en Barakaldo,"Calle Ibaibe,15B, 48901 Barakaldo Vizcaya",43.302449,-2.995107,740,
+KASKO,Bar Tribuna,"Alda las Llanas, 35, 48910 Sestao País Vasco",43.310411,-3.010814,880,Bar
+KASKO,Bar Denak,"Chavarri, 18, 48910 Sestao País Vasco",43.311288,-3.004023,924,Bar
+KASKO,Hotel Naval Sestao,"La Naval, 3, 48910 Sestao País Vasco",43.308633,-2.989015,927,Hotel
+KASKO,Restaurante Amatxu Cafetería,"Avenida Libertad, 63, 48901 Barakaldo País Vasco",43.301794,-2.992849,933,Bar
+KASKO,Escuela Universitaria de Ingenieria Tecnica Minera de Barakaldo,"Colina Beurko, s/n, 48902  Vizcaya",43.299505,-2.997406,960,College and University
+KASKO,Oficina de Empleo Barakaldo,"Luis Castresana, 9, 48902 Barakaldo País Vasco",43.302711,-2.990885,962,Office
+KASKO,Restaurante Manhattan,"Pol. Ibarzaharra. s/n, 48910 Sestao País Vasco",43.309704,-3.00754,1092,Fast Food Restaurant
+KASKO,Hotel Naval Sestao,"Ribera de la Ria, s/n, 48910 Sestao País Vasco",43.308715,-2.989297,1858,Hotel
+KASKO,Bar Brenez,"M. Cervantes, 29, 48910 Sestao Vizcaya",43.309395,-2.999533,190,Bar
+KASKO,Bar Vega,"Calle de José María Usandizaga, 4, 48910 Sestao País Vasco",43.309642,-3.003734,293,Bar
+KASKO,Bar Fernando,"Chavarri, 83, 48910 Sestao País Vasco",43.311237,-3.004446,314,Bar
+KASKO,Bar Bost,"Vicente Blasco Ibañez Kalea, 22, Sestao Vizcaya",43.307698,-3.002542,371,Bar
+KASKO,Bar Ninfas,"Calle Vicente Blasco Ibáñez, 30 Bajo, 48910 Sestao País Vasco",43.307698,-3.002063,379,Bar
+KASKO,B travel (B the Travel Brand),"Pza. el Kasko, 3, 48910 Sestao País Vasco",43.307522,-2.99727,462,Travel Agency
+KASKO,Rosalia Peralta Barcala,"Calle Lorenzo Llona, 9, 48910 Sestao Vizcaya",43.308384,-3.005505,489,Physician
+KASKO,Bar Ganbara,"Plaza de San Pedro, 2, 48910 Sestao Vizcaya",43.308067,-3.00525,506,Arts and Entertainment
+KASKO,Bar Alba Delri,"Gran Vía, 3, 48910 Sestao Vizcaya",43.309694,-3.007146,548,Bar
+KASKO,Barrika,"Calle Juan Tomás de Gandarías, 1, 48910 Sestao Vizcaya",43.307638,-3.005925,566,Bar
+KASKO,Viajes Barcelo,"Calle Villar y Villate, 8, Sestao Vizcaya",43.308497,-3.006971,583,Travel Agency
+KASKO,Bar Mayte,"Calle Manuel Andrés, 6, 48910 Sestao País Vasco",43.307915,-3.007476,621,Bar
+KASKO,Bar Viuda de Baldo,"Calle Alameda las Llanas, 13, Sestao País Vasco",43.309111,-3.00813,626,Wine Bar
+KASKO,María del Pilar Barberó Cruz,"Calle Juan Tomás de Gandarías, 7, 48910 Sestao Vizcaya",43.307178,-3.006374,627,Bakery
+KASKO,Cafetería - Restaurante Castañares,"Alameda las Llanas, 13, 48910 Sestao País Vasco",43.309173,-3.008102,639,Bar
+KASKO,Bar Palas,"Calle Villar y Villate, 11, 48910 Sestao País Vasco",43.30815,-3.007449,645,Bar
+KASKO,Bar Terraco,"Calle Manuel Andrés, 10, Sestao Vizcaya",43.30771,-3.00725,647,Bar
+KASKO,La Barrita de Pan,"Alda. las Llanas, 15, 48910 Sestao Vizcaya",43.309203,-3.008327,655,Bakery
+KASKO,Bar Denak,"Chavarri, 18, 48910 Sestao País Vasco",43.311288,-3.004023,814,Bar
+KASKO,Bar Tribuna,"Alda las Llanas, 35, 48910 Sestao País Vasco",43.310411,-3.010814,820,Bar
+KASKO,Carlson Wagonlit Travel,"Avenida Autonomía Pol. Emp. Udondo, 4, 48940 Leioa Vizcaya",43.318518,-3.004166,891,Travel Agency
+KASKO,Hotel Naval Sestao,"La Naval, 3, 48910 Sestao País Vasco",43.308633,-2.989015,967,Hotel
+KASKO,Restaurante Manhattan,"Pol. Ibarzaharra. s/n, 48910 Sestao País Vasco",43.309704,-3.00754,1407,Fast Food Restaurant
+KASKO,Hotel Naval Sestao,"Ribera de la Ria, s/n, 48910 Sestao País Vasco",43.308715,-2.989297,1871,Hotel
+KUETO,Bar Terraco,"Calle Manuel Andrés, 10, Sestao Vizcaya",43.30771,-3.00725,212,Bar
+KUETO,María del Pilar Barberó Cruz,"Calle Juan Tomás de Gandarías, 7, 48910 Sestao Vizcaya",43.307178,-3.006374,228,Bakery
+KUETO,Bar Palas,"Calle Villar y Villate, 11, 48910 Sestao País Vasco",43.30815,-3.007449,231,Bar
+KUETO,Bar Mayte,"Calle Manuel Andrés, 6, 48910 Sestao País Vasco",43.307915,-3.007476,243,Bar
+KUETO,Barrika,"Calle Juan Tomás de Gandarías, 1, 48910 Sestao Vizcaya",43.307638,-3.005925,286,Bar
+KUETO,Viajes Barcelo,"Calle Villar y Villate, 8, Sestao Vizcaya",43.308497,-3.006971,298,Travel Agency
+KUETO,Bar Viuda de Baldo,"Calle Alameda las Llanas, 13, Sestao País Vasco",43.309111,-3.00813,336,Wine Bar
+KUETO,Cafetería - Restaurante Castañares,"Alameda las Llanas, 13, 48910 Sestao País Vasco",43.309173,-3.008102,336,Bar
+KUETO,La Barrita de Pan,"Alda. las Llanas, 15, 48910 Sestao Vizcaya",43.309203,-3.008327,337,Bakery
+KUETO,Bar Ganbara,"Plaza de San Pedro, 2, 48910 Sestao Vizcaya",43.308067,-3.00525,346,Arts and Entertainment
+KUETO,Rosalia Peralta Barcala,"Calle Lorenzo Llona, 9, 48910 Sestao Vizcaya",43.308384,-3.005505,364,Physician
+KUETO,Bar Alba Delri,"Gran Vía, 3, 48910 Sestao Vizcaya",43.309694,-3.007146,412,Bar
+KUETO,Bar Tribuna,"Alda las Llanas, 35, 48910 Sestao País Vasco",43.310411,-3.010814,505,Bar
+KUETO,Bar Bost,"Vicente Blasco Ibañez Kalea, 22, Sestao Vizcaya",43.307698,-3.002542,535,Bar
+KUETO,Bar Vega,"Calle de José María Usandizaga, 4, 48910 Sestao País Vasco",43.309642,-3.003734,564,Bar
+KUETO,Bar Ninfas,"Calle Vicente Blasco Ibáñez, 30 Bajo, 48910 Sestao País Vasco",43.307698,-3.002063,574,Bar
+KUETO,Bar Fernando,"Chavarri, 83, 48910 Sestao País Vasco",43.311237,-3.004446,664,Bar
+KUETO,Hostal Restaurante Agarimo,"Barrio Galindo, s/n, 48510 Valle de Trapaga País Vasco",43.303356,-3.016421,688,Hostel
+KUETO,Bar Brenez,"M. Cervantes, 29, 48910 Sestao Vizcaya",43.309395,-2.999533,833,Bar
+KUETO,Restaurante Manhattan,"Pol. Ibarzaharra. s/n, 48910 Sestao País Vasco",43.309704,-3.00754,836,Fast Food Restaurant
+KUETO,Petisco Restaurante,"Carretera San Vicente Polígono Industrial Aurrera, s/n, 48510 Valle de Trápaga-Trapagaran País Vasco",43.300799,-3.017904,946,Dessert Shop
+KUETO,B travel (B the Travel Brand),"Pza. el Kasko, 3, 48910 Sestao País Vasco",43.307522,-2.99727,949,Travel Agency
+KUETO,Bar Paz,"Grupo Alfredo Alonso Allende, 30, 48920 Portugalete País Vasco",43.313205,-3.016493,1001,Bar
+KUETO,Bar Denak,"Chavarri, 18, 48910 Sestao País Vasco",43.311288,-3.004023,1613,Bar
+KUETO,Cafetería - Restaurante Castañares,"Alameda las Llanas, 13, 48910 Sestao País Vasco",43.309173,-3.008102,18,Bar
+KUETO,La Barrita de Pan,"Alda. las Llanas, 15, 48910 Sestao Vizcaya",43.309203,-3.008327,24,Bakery
+KUETO,Bar Viuda de Baldo,"Calle Alameda las Llanas, 13, Sestao País Vasco",43.309111,-3.00813,25,Wine Bar
+KUETO,Bar Alba Delri,"Gran Vía, 3, 48910 Sestao Vizcaya",43.309694,-3.007146,86,Bar
+KUETO,Viajes Barcelo,"Calle Villar y Villate, 8, Sestao Vizcaya",43.308497,-3.006971,130,Travel Agency
+KUETO,Bar Palas,"Calle Villar y Villate, 11, 48910 Sestao País Vasco",43.30815,-3.007449,154,Bar
+KUETO,Bar Mayte,"Calle Manuel Andrés, 6, 48910 Sestao País Vasco",43.307915,-3.007476,174,Bar
+KUETO,Bar Terraco,"Calle Manuel Andrés, 10, Sestao Vizcaya",43.30771,-3.00725,193,Bar
+KUETO,Rosalia Peralta Barcala,"Calle Lorenzo Llona, 9, 48910 Sestao Vizcaya",43.308384,-3.005505,234,Physician
+KUETO,Bar Tribuna,"Alda las Llanas, 35, 48910 Sestao País Vasco",43.310411,-3.010814,250,Bar
+KUETO,Barrika,"Calle Juan Tomás de Gandarías, 1, 48910 Sestao Vizcaya",43.307638,-3.005925,257,Bar
+KUETO,Bar Ganbara,"Plaza de San Pedro, 2, 48910 Sestao Vizcaya",43.308067,-3.00525,270,Arts and Entertainment
+KUETO,María del Pilar Barberó Cruz,"Calle Juan Tomás de Gandarías, 7, 48910 Sestao Vizcaya",43.307178,-3.006374,277,Bakery
+KUETO,Bar Vega,"Calle de José María Usandizaga, 4, 48910 Sestao País Vasco",43.309642,-3.003734,354,Bar
+KUETO,Bar Fernando,"Chavarri, 83, 48910 Sestao País Vasco",43.311237,-3.004446,362,Bar
+KUETO,Bar Bost,"Vicente Blasco Ibañez Kalea, 22, Sestao Vizcaya",43.307698,-3.002542,460,Bar
+KUETO,Bar Ninfas,"Calle Vicente Blasco Ibáñez, 30 Bajo, 48910 Sestao País Vasco",43.307698,-3.002063,520,Bar
+KUETO,Bar Brenez,"M. Cervantes, 29, 48910 Sestao Vizcaya",43.309395,-2.999533,692,Bar
+KUETO,Bar Paz,"Grupo Alfredo Alonso Allende, 30, 48920 Portugalete País Vasco",43.313205,-3.016493,811,Bar
+KUETO,B travel (B the Travel Brand),"Pza. el Kasko, 3, 48910 Sestao País Vasco",43.307522,-2.99727,898,Travel Agency
+KUETO,Adrian Cafeteria Restaurante,"Plaza Gorbea Mendi, 5, 48920 Portugalete País Vasco",43.314892,-3.016923,940,Restaurant
+KUETO,Hostal Restaurante Agarimo,"Barrio Galindo, s/n, 48510 Valle de Trapaga País Vasco",43.303356,-3.016421,946,Hostel
+KUETO,Bar Andoni,"Plaza Gorbea - Mendía, 1, 48920 Portugalete Vizcaya",43.314759,-3.017543,973,Bar
+KUETO,Bar Virginia,"Avenida Ramón y Cajal, 13, 48920 Portugalete Vizcaya",43.314555,-3.017796,975,Bar
+KUETO,Alfredo Baroja Ruiz de Azua,"Plaza Gorbea - Mendía, 2, 48920 Portugalete Vizcaya",43.314821,-3.017515,975,Shoe Store
+KUETO,Restaurante Manhattan,"Pol. Ibarzaharra. s/n, 48910 Sestao País Vasco",43.309704,-3.00754,1166,Fast Food Restaurant
+KUETO,Bar Denak,"Chavarri, 18, 48910 Sestao País Vasco",43.311288,-3.004023,1444,Bar
+KUETO,Bar Ninfas,"Calle Vicente Blasco Ibáñez, 30 Bajo, 48910 Sestao País Vasco",43.307698,-3.002063,130,Bar
+KUETO,Bar Bost,"Vicente Blasco Ibañez Kalea, 22, Sestao Vizcaya",43.307698,-3.002542,182,Bar
+KUETO,Bar Brenez,"M. Cervantes, 29, 48910 Sestao Vizcaya",43.309395,-2.999533,186,Bar
+KUETO,B travel (B the Travel Brand),"Pza. el Kasko, 3, 48910 Sestao País Vasco",43.307522,-2.99727,260,Travel Agency
+KUETO,Bar Vega,"Calle de José María Usandizaga, 4, 48910 Sestao País Vasco",43.309642,-3.003734,331,Bar
+KUETO,Bar Ganbara,"Plaza de San Pedro, 2, 48910 Sestao Vizcaya",43.308067,-3.00525,393,Arts and Entertainment
+KUETO,Rosalia Peralta Barcala,"Calle Lorenzo Llona, 9, 48910 Sestao Vizcaya",43.308384,-3.005505,412,Physician
+KUETO,Barrika,"Calle Juan Tomás de Gandarías, 1, 48910 Sestao Vizcaya",43.307638,-3.005925,442,Bar
+KUETO,María del Pilar Barberó Cruz,"Calle Juan Tomás de Gandarías, 7, 48910 Sestao Vizcaya",43.307178,-3.006374,484,Bakery
+KUETO,Bar Fernando,"Chavarri, 83, 48910 Sestao País Vasco",43.311237,-3.004446,495,Bar
+KUETO,Viajes Barcelo,"Calle Villar y Villate, 8, Sestao Vizcaya",43.308497,-3.006971,531,Travel Agency
+KUETO,Bar Mayte,"Calle Manuel Andrés, 6, 48910 Sestao País Vasco",43.307915,-3.007476,535,Bar
+KUETO,Bar Terraco,"Calle Manuel Andrés, 10, Sestao Vizcaya",43.30771,-3.00725,549,Bar
+KUETO,Bar Palas,"Calle Villar y Villate, 11, 48910 Sestao País Vasco",43.30815,-3.007449,568,Bar
+KUETO,Bar Alba Delri,"Gran Vía, 3, 48910 Sestao Vizcaya",43.309694,-3.007146,578,Bar
+KUETO,Bar Viuda de Baldo,"Calle Alameda las Llanas, 13, Sestao País Vasco",43.309111,-3.00813,620,Wine Bar
+KUETO,Cafetería - Restaurante Castañares,"Alameda las Llanas, 13, 48910 Sestao País Vasco",43.309173,-3.008102,635,Bar
+KUETO,La Barrita de Pan,"Alda. las Llanas, 15, 48910 Sestao Vizcaya",43.309203,-3.008327,653,Bakery
+KUETO,U.T.E.Baracaldo-Ferrovial-Samos,"Calle Beurko Viejo, s/n, 48902 Barakaldo Vizcaya",43.302051,-2.997444,689,
+KUETO,Barakauto Motor,"Ibaibe Kalea, 5, 48901 Barakaldo País Vasco",43.302449,-2.995586,709,Automotive Repair Shop
+KUETO,Taller de lunas en Barakaldo,"Calle Ibaibe,15B, 48901 Barakaldo Vizcaya",43.302449,-2.995107,740,
+KUETO,Bar Tribuna,"Alda las Llanas, 35, 48910 Sestao País Vasco",43.310411,-3.010814,880,Bar
+KUETO,Bar Denak,"Chavarri, 18, 48910 Sestao País Vasco",43.311288,-3.004023,924,Bar
+KUETO,Hotel Naval Sestao,"La Naval, 3, 48910 Sestao País Vasco",43.308633,-2.989015,927,Hotel
+KUETO,Restaurante Amatxu Cafetería,"Avenida Libertad, 63, 48901 Barakaldo País Vasco",43.301794,-2.992849,933,Bar
+KUETO,Escuela Universitaria de Ingenieria Tecnica Minera de Barakaldo,"Colina Beurko, s/n, 48902  Vizcaya",43.299505,-2.997406,960,College and University
+KUETO,Oficina de Empleo Barakaldo,"Luis Castresana, 9, 48902 Barakaldo País Vasco",43.302711,-2.990885,962,Office
+KUETO,Restaurante Manhattan,"Pol. Ibarzaharra. s/n, 48910 Sestao País Vasco",43.309704,-3.00754,1092,Fast Food Restaurant
+KUETO,Hotel Naval Sestao,"Ribera de la Ria, s/n, 48910 Sestao País Vasco",43.308715,-2.989297,1858,Hotel
+KUETO,Bar Brenez,"M. Cervantes, 29, 48910 Sestao Vizcaya",43.309395,-2.999533,190,Bar
+KUETO,Bar Vega,"Calle de José María Usandizaga, 4, 48910 Sestao País Vasco",43.309642,-3.003734,293,Bar
+KUETO,Bar Fernando,"Chavarri, 83, 48910 Sestao País Vasco",43.311237,-3.004446,314,Bar
+KUETO,Bar Bost,"Vicente Blasco Ibañez Kalea, 22, Sestao Vizcaya",43.307698,-3.002542,371,Bar
+KUETO,Bar Ninfas,"Calle Vicente Blasco Ibáñez, 30 Bajo, 48910 Sestao País Vasco",43.307698,-3.002063,379,Bar
+KUETO,B travel (B the Travel Brand),"Pza. el Kasko, 3, 48910 Sestao País Vasco",43.307522,-2.99727,462,Travel Agency
+KUETO,Rosalia Peralta Barcala,"Calle Lorenzo Llona, 9, 48910 Sestao Vizcaya",43.308384,-3.005505,489,Physician
+KUETO,Bar Ganbara,"Plaza de San Pedro, 2, 48910 Sestao Vizcaya",43.308067,-3.00525,506,Arts and Entertainment
+KUETO,Bar Alba Delri,"Gran Vía, 3, 48910 Sestao Vizcaya",43.309694,-3.007146,548,Bar
+KUETO,Barrika,"Calle Juan Tomás de Gandarías, 1, 48910 Sestao Vizcaya",43.307638,-3.005925,566,Bar
+KUETO,Viajes Barcelo,"Calle Villar y Villate, 8, Sestao Vizcaya",43.308497,-3.006971,583,Travel Agency
+KUETO,Bar Mayte,"Calle Manuel Andrés, 6, 48910 Sestao País Vasco",43.307915,-3.007476,621,Bar
+KUETO,Bar Viuda de Baldo,"Calle Alameda las Llanas, 13, Sestao País Vasco",43.309111,-3.00813,626,Wine Bar
+KUETO,María del Pilar Barberó Cruz,"Calle Juan Tomás de Gandarías, 7, 48910 Sestao Vizcaya",43.307178,-3.006374,627,Bakery
+KUETO,Cafetería - Restaurante Castañares,"Alameda las Llanas, 13, 48910 Sestao País Vasco",43.309173,-3.008102,639,Bar
+KUETO,Bar Palas,"Calle Villar y Villate, 11, 48910 Sestao País Vasco",43.30815,-3.007449,645,Bar
+KUETO,Bar Terraco,"Calle Manuel Andrés, 10, Sestao Vizcaya",43.30771,-3.00725,647,Bar
+KUETO,La Barrita de Pan,"Alda. las Llanas, 15, 48910 Sestao Vizcaya",43.309203,-3.008327,655,Bakery
+KUETO,Bar Denak,"Chavarri, 18, 48910 Sestao País Vasco",43.311288,-3.004023,814,Bar
+KUETO,Bar Tribuna,"Alda las Llanas, 35, 48910 Sestao País Vasco",43.310411,-3.010814,820,Bar
+KUETO,Carlson Wagonlit Travel,"Avenida Autonomía Pol. Emp. Udondo, 4, 48940 Leioa Vizcaya",43.318518,-3.004166,891,Travel Agency
+KUETO,Hotel Naval Sestao,"La Naval, 3, 48910 Sestao País Vasco",43.308633,-2.989015,967,Hotel
+KUETO,Restaurante Manhattan,"Pol. Ibarzaharra. s/n, 48910 Sestao País Vasco",43.309704,-3.00754,1407,Fast Food Restaurant
+KUETO,Hotel Naval Sestao,"Ribera de la Ria, s/n, 48910 Sestao País Vasco",43.308715,-2.989297,1871,Hotel
+LABE GARAIA/ALTO HORNO,Bar Terraco,"Calle Manuel Andrés, 10, Sestao Vizcaya",43.30771,-3.00725,212,Bar
+LABE GARAIA/ALTO HORNO,María del Pilar Barberó Cruz,"Calle Juan Tomás de Gandarías, 7, 48910 Sestao Vizcaya",43.307178,-3.006374,228,Bakery
+LABE GARAIA/ALTO HORNO,Bar Palas,"Calle Villar y Villate, 11, 48910 Sestao País Vasco",43.30815,-3.007449,231,Bar
+LABE GARAIA/ALTO HORNO,Bar Mayte,"Calle Manuel Andrés, 6, 48910 Sestao País Vasco",43.307915,-3.007476,243,Bar
+LABE GARAIA/ALTO HORNO,Barrika,"Calle Juan Tomás de Gandarías, 1, 48910 Sestao Vizcaya",43.307638,-3.005925,286,Bar
+LABE GARAIA/ALTO HORNO,Viajes Barcelo,"Calle Villar y Villate, 8, Sestao Vizcaya",43.308497,-3.006971,298,Travel Agency
+LABE GARAIA/ALTO HORNO,Bar Viuda de Baldo,"Calle Alameda las Llanas, 13, Sestao País Vasco",43.309111,-3.00813,336,Wine Bar
+LABE GARAIA/ALTO HORNO,Cafetería - Restaurante Castañares,"Alameda las Llanas, 13, 48910 Sestao País Vasco",43.309173,-3.008102,336,Bar
+LABE GARAIA/ALTO HORNO,La Barrita de Pan,"Alda. las Llanas, 15, 48910 Sestao Vizcaya",43.309203,-3.008327,337,Bakery
+LABE GARAIA/ALTO HORNO,Bar Ganbara,"Plaza de San Pedro, 2, 48910 Sestao Vizcaya",43.308067,-3.00525,346,Arts and Entertainment
+LABE GARAIA/ALTO HORNO,Rosalia Peralta Barcala,"Calle Lorenzo Llona, 9, 48910 Sestao Vizcaya",43.308384,-3.005505,364,Physician
+LABE GARAIA/ALTO HORNO,Bar Alba Delri,"Gran Vía, 3, 48910 Sestao Vizcaya",43.309694,-3.007146,412,Bar
+LABE GARAIA/ALTO HORNO,Bar Tribuna,"Alda las Llanas, 35, 48910 Sestao País Vasco",43.310411,-3.010814,505,Bar
+LABE GARAIA/ALTO HORNO,Bar Bost,"Vicente Blasco Ibañez Kalea, 22, Sestao Vizcaya",43.307698,-3.002542,535,Bar
+LABE GARAIA/ALTO HORNO,Bar Vega,"Calle de José María Usandizaga, 4, 48910 Sestao País Vasco",43.309642,-3.003734,564,Bar
+LABE GARAIA/ALTO HORNO,Bar Ninfas,"Calle Vicente Blasco Ibáñez, 30 Bajo, 48910 Sestao País Vasco",43.307698,-3.002063,574,Bar
+LABE GARAIA/ALTO HORNO,Bar Fernando,"Chavarri, 83, 48910 Sestao País Vasco",43.311237,-3.004446,664,Bar
+LABE GARAIA/ALTO HORNO,Hostal Restaurante Agarimo,"Barrio Galindo, s/n, 48510 Valle de Trapaga País Vasco",43.303356,-3.016421,688,Hostel
+LABE GARAIA/ALTO HORNO,Bar Brenez,"M. Cervantes, 29, 48910 Sestao Vizcaya",43.309395,-2.999533,833,Bar
+LABE GARAIA/ALTO HORNO,Restaurante Manhattan,"Pol. Ibarzaharra. s/n, 48910 Sestao País Vasco",43.309704,-3.00754,836,Fast Food Restaurant
+LABE GARAIA/ALTO HORNO,Petisco Restaurante,"Carretera San Vicente Polígono Industrial Aurrera, s/n, 48510 Valle de Trápaga-Trapagaran País Vasco",43.300799,-3.017904,946,Dessert Shop
+LABE GARAIA/ALTO HORNO,B travel (B the Travel Brand),"Pza. el Kasko, 3, 48910 Sestao País Vasco",43.307522,-2.99727,949,Travel Agency
+LABE GARAIA/ALTO HORNO,Bar Paz,"Grupo Alfredo Alonso Allende, 30, 48920 Portugalete País Vasco",43.313205,-3.016493,1001,Bar
+LABE GARAIA/ALTO HORNO,Bar Denak,"Chavarri, 18, 48910 Sestao País Vasco",43.311288,-3.004023,1613,Bar
+LABE GARAIA/ALTO HORNO,Cafetería - Restaurante Castañares,"Alameda las Llanas, 13, 48910 Sestao País Vasco",43.309173,-3.008102,18,Bar
+LABE GARAIA/ALTO HORNO,La Barrita de Pan,"Alda. las Llanas, 15, 48910 Sestao Vizcaya",43.309203,-3.008327,24,Bakery
+LABE GARAIA/ALTO HORNO,Bar Viuda de Baldo,"Calle Alameda las Llanas, 13, Sestao País Vasco",43.309111,-3.00813,25,Wine Bar
+LABE GARAIA/ALTO HORNO,Bar Alba Delri,"Gran Vía, 3, 48910 Sestao Vizcaya",43.309694,-3.007146,86,Bar
+LABE GARAIA/ALTO HORNO,Viajes Barcelo,"Calle Villar y Villate, 8, Sestao Vizcaya",43.308497,-3.006971,130,Travel Agency
+LABE GARAIA/ALTO HORNO,Bar Palas,"Calle Villar y Villate, 11, 48910 Sestao País Vasco",43.30815,-3.007449,154,Bar
+LABE GARAIA/ALTO HORNO,Bar Mayte,"Calle Manuel Andrés, 6, 48910 Sestao País Vasco",43.307915,-3.007476,174,Bar
+LABE GARAIA/ALTO HORNO,Bar Terraco,"Calle Manuel Andrés, 10, Sestao Vizcaya",43.30771,-3.00725,193,Bar
+LABE GARAIA/ALTO HORNO,Rosalia Peralta Barcala,"Calle Lorenzo Llona, 9, 48910 Sestao Vizcaya",43.308384,-3.005505,234,Physician
+LABE GARAIA/ALTO HORNO,Bar Tribuna,"Alda las Llanas, 35, 48910 Sestao País Vasco",43.310411,-3.010814,250,Bar
+LABE GARAIA/ALTO HORNO,Barrika,"Calle Juan Tomás de Gandarías, 1, 48910 Sestao Vizcaya",43.307638,-3.005925,257,Bar
+LABE GARAIA/ALTO HORNO,Bar Ganbara,"Plaza de San Pedro, 2, 48910 Sestao Vizcaya",43.308067,-3.00525,270,Arts and Entertainment
+LABE GARAIA/ALTO HORNO,María del Pilar Barberó Cruz,"Calle Juan Tomás de Gandarías, 7, 48910 Sestao Vizcaya",43.307178,-3.006374,277,Bakery
+LABE GARAIA/ALTO HORNO,Bar Vega,"Calle de José María Usandizaga, 4, 48910 Sestao País Vasco",43.309642,-3.003734,354,Bar
+LABE GARAIA/ALTO HORNO,Bar Fernando,"Chavarri, 83, 48910 Sestao País Vasco",43.311237,-3.004446,362,Bar
+LABE GARAIA/ALTO HORNO,Bar Bost,"Vicente Blasco Ibañez Kalea, 22, Sestao Vizcaya",43.307698,-3.002542,460,Bar
+LABE GARAIA/ALTO HORNO,Bar Ninfas,"Calle Vicente Blasco Ibáñez, 30 Bajo, 48910 Sestao País Vasco",43.307698,-3.002063,520,Bar
+LABE GARAIA/ALTO HORNO,Bar Brenez,"M. Cervantes, 29, 48910 Sestao Vizcaya",43.309395,-2.999533,692,Bar
+LABE GARAIA/ALTO HORNO,Bar Paz,"Grupo Alfredo Alonso Allende, 30, 48920 Portugalete País Vasco",43.313205,-3.016493,811,Bar
+LABE GARAIA/ALTO HORNO,B travel (B the Travel Brand),"Pza. el Kasko, 3, 48910 Sestao País Vasco",43.307522,-2.99727,898,Travel Agency
+LABE GARAIA/ALTO HORNO,Adrian Cafeteria Restaurante,"Plaza Gorbea Mendi, 5, 48920 Portugalete País Vasco",43.314892,-3.016923,940,Restaurant
+LABE GARAIA/ALTO HORNO,Hostal Restaurante Agarimo,"Barrio Galindo, s/n, 48510 Valle de Trapaga País Vasco",43.303356,-3.016421,946,Hostel
+LABE GARAIA/ALTO HORNO,Bar Andoni,"Plaza Gorbea - Mendía, 1, 48920 Portugalete Vizcaya",43.314759,-3.017543,973,Bar
+LABE GARAIA/ALTO HORNO,Bar Virginia,"Avenida Ramón y Cajal, 13, 48920 Portugalete Vizcaya",43.314555,-3.017796,975,Bar
+LABE GARAIA/ALTO HORNO,Alfredo Baroja Ruiz de Azua,"Plaza Gorbea - Mendía, 2, 48920 Portugalete Vizcaya",43.314821,-3.017515,975,Shoe Store
+LABE GARAIA/ALTO HORNO,Restaurante Manhattan,"Pol. Ibarzaharra. s/n, 48910 Sestao País Vasco",43.309704,-3.00754,1166,Fast Food Restaurant
+LABE GARAIA/ALTO HORNO,Bar Denak,"Chavarri, 18, 48910 Sestao País Vasco",43.311288,-3.004023,1444,Bar
+LABE GARAIA/ALTO HORNO,Bar Ninfas,"Calle Vicente Blasco Ibáñez, 30 Bajo, 48910 Sestao País Vasco",43.307698,-3.002063,130,Bar
+LABE GARAIA/ALTO HORNO,Bar Bost,"Vicente Blasco Ibañez Kalea, 22, Sestao Vizcaya",43.307698,-3.002542,182,Bar
+LABE GARAIA/ALTO HORNO,Bar Brenez,"M. Cervantes, 29, 48910 Sestao Vizcaya",43.309395,-2.999533,186,Bar
+LABE GARAIA/ALTO HORNO,B travel (B the Travel Brand),"Pza. el Kasko, 3, 48910 Sestao País Vasco",43.307522,-2.99727,260,Travel Agency
+LABE GARAIA/ALTO HORNO,Bar Vega,"Calle de José María Usandizaga, 4, 48910 Sestao País Vasco",43.309642,-3.003734,331,Bar
+LABE GARAIA/ALTO HORNO,Bar Ganbara,"Plaza de San Pedro, 2, 48910 Sestao Vizcaya",43.308067,-3.00525,393,Arts and Entertainment
+LABE GARAIA/ALTO HORNO,Rosalia Peralta Barcala,"Calle Lorenzo Llona, 9, 48910 Sestao Vizcaya",43.308384,-3.005505,412,Physician
+LABE GARAIA/ALTO HORNO,Barrika,"Calle Juan Tomás de Gandarías, 1, 48910 Sestao Vizcaya",43.307638,-3.005925,442,Bar
+LABE GARAIA/ALTO HORNO,María del Pilar Barberó Cruz,"Calle Juan Tomás de Gandarías, 7, 48910 Sestao Vizcaya",43.307178,-3.006374,484,Bakery
+LABE GARAIA/ALTO HORNO,Bar Fernando,"Chavarri, 83, 48910 Sestao País Vasco",43.311237,-3.004446,495,Bar
+LABE GARAIA/ALTO HORNO,Viajes Barcelo,"Calle Villar y Villate, 8, Sestao Vizcaya",43.308497,-3.006971,531,Travel Agency
+LABE GARAIA/ALTO HORNO,Bar Mayte,"Calle Manuel Andrés, 6, 48910 Sestao País Vasco",43.307915,-3.007476,535,Bar
+LABE GARAIA/ALTO HORNO,Bar Terraco,"Calle Manuel Andrés, 10, Sestao Vizcaya",43.30771,-3.00725,549,Bar
+LABE GARAIA/ALTO HORNO,Bar Palas,"Calle Villar y Villate, 11, 48910 Sestao País Vasco",43.30815,-3.007449,568,Bar
+LABE GARAIA/ALTO HORNO,Bar Alba Delri,"Gran Vía, 3, 48910 Sestao Vizcaya",43.309694,-3.007146,578,Bar
+LABE GARAIA/ALTO HORNO,Bar Viuda de Baldo,"Calle Alameda las Llanas, 13, Sestao País Vasco",43.309111,-3.00813,620,Wine Bar
+LABE GARAIA/ALTO HORNO,Cafetería - Restaurante Castañares,"Alameda las Llanas, 13, 48910 Sestao País Vasco",43.309173,-3.008102,635,Bar
+LABE GARAIA/ALTO HORNO,La Barrita de Pan,"Alda. las Llanas, 15, 48910 Sestao Vizcaya",43.309203,-3.008327,653,Bakery
+LABE GARAIA/ALTO HORNO,U.T.E.Baracaldo-Ferrovial-Samos,"Calle Beurko Viejo, s/n, 48902 Barakaldo Vizcaya",43.302051,-2.997444,689,
+LABE GARAIA/ALTO HORNO,Barakauto Motor,"Ibaibe Kalea, 5, 48901 Barakaldo País Vasco",43.302449,-2.995586,709,Automotive Repair Shop
+LABE GARAIA/ALTO HORNO,Taller de lunas en Barakaldo,"Calle Ibaibe,15B, 48901 Barakaldo Vizcaya",43.302449,-2.995107,740,
+LABE GARAIA/ALTO HORNO,Bar Tribuna,"Alda las Llanas, 35, 48910 Sestao País Vasco",43.310411,-3.010814,880,Bar
+LABE GARAIA/ALTO HORNO,Bar Denak,"Chavarri, 18, 48910 Sestao País Vasco",43.311288,-3.004023,924,Bar
+LABE GARAIA/ALTO HORNO,Hotel Naval Sestao,"La Naval, 3, 48910 Sestao País Vasco",43.308633,-2.989015,927,Hotel
+LABE GARAIA/ALTO HORNO,Restaurante Amatxu Cafetería,"Avenida Libertad, 63, 48901 Barakaldo País Vasco",43.301794,-2.992849,933,Bar
+LABE GARAIA/ALTO HORNO,Escuela Universitaria de Ingenieria Tecnica Minera de Barakaldo,"Colina Beurko, s/n, 48902  Vizcaya",43.299505,-2.997406,960,College and University
+LABE GARAIA/ALTO HORNO,Oficina de Empleo Barakaldo,"Luis Castresana, 9, 48902 Barakaldo País Vasco",43.302711,-2.990885,962,Office
+LABE GARAIA/ALTO HORNO,Restaurante Manhattan,"Pol. Ibarzaharra. s/n, 48910 Sestao País Vasco",43.309704,-3.00754,1092,Fast Food Restaurant
+LABE GARAIA/ALTO HORNO,Hotel Naval Sestao,"Ribera de la Ria, s/n, 48910 Sestao País Vasco",43.308715,-2.989297,1858,Hotel
+LABE GARAIA/ALTO HORNO,Bar Brenez,"M. Cervantes, 29, 48910 Sestao Vizcaya",43.309395,-2.999533,190,Bar
+LABE GARAIA/ALTO HORNO,Bar Vega,"Calle de José María Usandizaga, 4, 48910 Sestao País Vasco",43.309642,-3.003734,293,Bar
+LABE GARAIA/ALTO HORNO,Bar Fernando,"Chavarri, 83, 48910 Sestao País Vasco",43.311237,-3.004446,314,Bar
+LABE GARAIA/ALTO HORNO,Bar Bost,"Vicente Blasco Ibañez Kalea, 22, Sestao Vizcaya",43.307698,-3.002542,371,Bar
+LABE GARAIA/ALTO HORNO,Bar Ninfas,"Calle Vicente Blasco Ibáñez, 30 Bajo, 48910 Sestao País Vasco",43.307698,-3.002063,379,Bar
+LABE GARAIA/ALTO HORNO,B travel (B the Travel Brand),"Pza. el Kasko, 3, 48910 Sestao País Vasco",43.307522,-2.99727,462,Travel Agency
+LABE GARAIA/ALTO HORNO,Rosalia Peralta Barcala,"Calle Lorenzo Llona, 9, 48910 Sestao Vizcaya",43.308384,-3.005505,489,Physician
+LABE GARAIA/ALTO HORNO,Bar Ganbara,"Plaza de San Pedro, 2, 48910 Sestao Vizcaya",43.308067,-3.00525,506,Arts and Entertainment
+LABE GARAIA/ALTO HORNO,Bar Alba Delri,"Gran Vía, 3, 48910 Sestao Vizcaya",43.309694,-3.007146,548,Bar
+LABE GARAIA/ALTO HORNO,Barrika,"Calle Juan Tomás de Gandarías, 1, 48910 Sestao Vizcaya",43.307638,-3.005925,566,Bar
+LABE GARAIA/ALTO HORNO,Viajes Barcelo,"Calle Villar y Villate, 8, Sestao Vizcaya",43.308497,-3.006971,583,Travel Agency
+LABE GARAIA/ALTO HORNO,Bar Mayte,"Calle Manuel Andrés, 6, 48910 Sestao País Vasco",43.307915,-3.007476,621,Bar
+LABE GARAIA/ALTO HORNO,Bar Viuda de Baldo,"Calle Alameda las Llanas, 13, Sestao País Vasco",43.309111,-3.00813,626,Wine Bar
+LABE GARAIA/ALTO HORNO,María del Pilar Barberó Cruz,"Calle Juan Tomás de Gandarías, 7, 48910 Sestao Vizcaya",43.307178,-3.006374,627,Bakery
+LABE GARAIA/ALTO HORNO,Cafetería - Restaurante Castañares,"Alameda las Llanas, 13, 48910 Sestao País Vasco",43.309173,-3.008102,639,Bar
+LABE GARAIA/ALTO HORNO,Bar Palas,"Calle Villar y Villate, 11, 48910 Sestao País Vasco",43.30815,-3.007449,645,Bar
+LABE GARAIA/ALTO HORNO,Bar Terraco,"Calle Manuel Andrés, 10, Sestao Vizcaya",43.30771,-3.00725,647,Bar
+LABE GARAIA/ALTO HORNO,La Barrita de Pan,"Alda. las Llanas, 15, 48910 Sestao Vizcaya",43.309203,-3.008327,655,Bakery
+LABE GARAIA/ALTO HORNO,Bar Denak,"Chavarri, 18, 48910 Sestao País Vasco",43.311288,-3.004023,814,Bar
+LABE GARAIA/ALTO HORNO,Bar Tribuna,"Alda las Llanas, 35, 48910 Sestao País Vasco",43.310411,-3.010814,820,Bar
+LABE GARAIA/ALTO HORNO,Carlson Wagonlit Travel,"Avenida Autonomía Pol. Emp. Udondo, 4, 48940 Leioa Vizcaya",43.318518,-3.004166,891,Travel Agency
+LABE GARAIA/ALTO HORNO,Hotel Naval Sestao,"La Naval, 3, 48910 Sestao País Vasco",43.308633,-2.989015,967,Hotel
+LABE GARAIA/ALTO HORNO,Restaurante Manhattan,"Pol. Ibarzaharra. s/n, 48910 Sestao País Vasco",43.309704,-3.00754,1407,Fast Food Restaurant
+LABE GARAIA/ALTO HORNO,Hotel Naval Sestao,"Ribera de la Ria, s/n, 48910 Sestao País Vasco",43.308715,-2.989297,1871,Hotel
